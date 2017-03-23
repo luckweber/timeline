@@ -8924,6 +8924,8 @@
 		*/
 		
         background-size: auto 100%;
+        font-family: Libre Baskerville,serif;
+        font-weight: normal;
     }
 	
 	
@@ -8945,7 +8947,8 @@
 		float: left;
 		text-align: left;
 		margin-left: 581px;
-		font-family: 'Libre Baskerville', serif;
+		font-family: Libre Baskerville,serif;
+		font-weight: normal;
 	}
 	
 	
@@ -8953,7 +8956,7 @@
 	.timeline-slider-title-0  .o{
 		color:#dd5406;
 		
-		width: 50%;
+		width: 44%;
 	}
 	
 	.timeline-slider-title-0  .o b{

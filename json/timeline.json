@@ -1451,15 +1451,14 @@
 		"className": "idade",
 		"title": "Embarque para Belém do Pará",
 		"info": "",
-		"media": "slider-content-gallery",
+		"media": "slider-content-gallery-full",
 		"background": {
 			"size": "100% 100%",
 			"repeat": "",
 			"url": "img/background.jpg"
 		},
 		"thumbs":[
-			{"url":"img/BR-RJ-COC-OC-RJ-7-f-51.jpg", "menor":"img/BR-RJ-COC-OC-RJ-7-f-51.jpg", "subTitle":"Notícia divulgada na imprensa sobre a partida de Oswaldo Cruz para Belém do Pará para realizar campanha sanitária contra a febre amarela nessa cidade. A Imprensa, 28 out. 1910"},
-			{"url":"img/BR-RJ-COC-OC-RJ-7-f-51_extrato.jpg", "menor":"img/BR-RJ-COC-OC-RJ-7-f-51_extrato.jpg", "subTitle":""}
+			{"url":"img/BR-RJ-COC-OC-RJ-7-f-51.jpg", "menor":"img/BR-RJ-COC-OC-RJ-7-f-51_extrato.jpg", "subTitle":"Notícia divulgada na imprensa sobre a partida de Oswaldo Cruz para Belém do Pará para realizar campanha sanitária contra a febre amarela nessa cidade. A Imprensa, 28 out. 1910"}
 
 		]
 	},
@@ -1988,7 +1987,7 @@
 		"className": "idade",
 		"title": "Família em Londres  ",
 		"info": "",
-		"media": "slider-content-gallery-full",
+		"media": "slider-content-galleries-full",
 		"background": {
 			"size": "100% 100%",
 			"repeat": "",
