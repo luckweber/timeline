@@ -1,0 +1,2280 @@
+[
+    {
+        "id": 0,
+        "content": "<img src='img/png.png' width='20%'/>Inicio",
+        "start": "1872/08/01",
+        "image": "img/cap_linha1.jpg",
+        "className": "idade",
+        "title": "<div class='o'>OSWALDO</div><div class='c'> CRUZ</div>",
+        "info": "",
+        "media": "slider",
+        "background": "img/cap_linha1.jpg"
+    },
+	{
+		"id": 1,
+		"content": "<p><img class='icon_imagem_imagem' src='img/imagem.png' /><span class='icon_title'>Nascimento em São Paulo</span></p>",
+		"start": "1872/08/05",
+		"image": "img/imagen.png",
+		"className": "idade",
+		"title": "Nascimento em São Paulo",
+		"info": "",
+		"media": "slider-content-gallery",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+		    {"url":"img/IOC(OC)-2-3.jpg", "menor":"img/IOC(OC)-2-3-copy.jpg", "subTitle":"Casa em que nasceu Oswaldo Cruz, na Chácara do Dizimeiro, São Luiz do Paraitinga, São Paulo, onde viveu os primeiros cinco anos de vida"}
+			
+		]
+    
+	},
+	{
+		"id": 2,
+		"content": "<p><img class='icon_imagem_imagem' src='img/imagem.png' />Retorno da família à capital federal</p>",
+		"start": "1877/02/01",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Retorno da família à capital federal",
+		"info": "",
+		"media": "slider-content-gallery",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+		    {"url":"img/rua-jardim-botanico.jpg", "menor":"img/rua-jardim-botanico.jpg", "subTitle":"Rua Jardim Botânico, onde a família Gonçalves Cruz passou a residir ao retornar de São Paulo. JARDIM Botânico. Museu Histórico Nacional, c.1890. Foto J. Gutierrez "}
+		]
+	},
+	{
+		"id": 3,
+		"content": "<p><img class='icon_imagem_imagem'  src='img/imagem.png' />Ingresso na Faculdade de Medicina </p>",
+		"start": "1887/01/01",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Ingresso na Faculdade de Medicina ",
+		"info": "",
+		"media": "slider-content-gallery",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+		    {"url":"img/3.jpg", "menor":"img/3-copy.jpg", "subTitle":" Prédio da Santa Casa da Misericórdia, onde funcionava a Faculdade de Medicina do Rio de Janeiro. s.d. Acervo Biblioteca Nacional   "}
+		]
+	},
+	{
+		"id": 4,
+		"content": "<p><img class='icon_imagem_imagem'  src='img/imagem.png'/>Estágio no laboratório de Higiene da Faculdade de Medicina </p>",
+		"start": "1888/01/01",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Estágio no laboratório de Higiene da Faculdade de Medicina ",
+		"info": "",
+		"media": "slider-content-gallery",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+		]
+	},
+	{
+		"id": 5,
+		"content": "<p><img class='icon_documento'  src='img/documento.png' />Hospital Geral da Santa Casa de Misericórdia </p>",
+		"start": "1889/11/18",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Hospital Geral da Santa Casa de Misericórdia ",
+		"info": "",
+		"media": "slider-content-gallery",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+			{"url":"img/8.jpg", "menor":"img/8-copy.jpg", "subTitle":"Nomeação pelo provedor da  Santa Casa de Misericórdia do Rio de Janeiro, Visconde do Cruzeiro, para pensionista de 3ª classe do Hospital Geral "}
+
+		
+		]
+	}
+	,
+	{
+		"id": 6,
+		"content": "<p><img class='icon_documento'  src='img/documento.png' />Auxiliar  no Instituto Nacional de Higiene </p>",
+		"start": "1890/01/01",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Auxiliar  no Instituto Nacional de Higiene ",
+		"info": "",
+		"media": "slider-content-gallery",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+					{"url":"img/10a.jpg", "menor":"img/10a-copy.jpg", "subTitle":"Caderno de experiências realizadas por Oswaldo Cruz no Instituto Nacional de Higiene na capital federal. 1892"}
+		]
+	},
+	{
+		"id": 7,
+		"content": "<p><img class='icon_documento'  src='img/documento.png' />Hospital Geral da Santa Casa de Misericórdia </p>",
+		"start": "1891/02/25",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Hospital Geral da Santa Casa de Misericórdia ",
+		"info": "",
+		"media": "slider-content-gallery",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+			{"url":"img/10.jpg", "menor":"img/10-copy.jpg", "subTitle":"Nomeação pelo provedor da Santa Casa de Misericórdia, conselheiro Paulino Jose Soares de Souza,  para a função de interno efetivo do Hospital Geral"}
+
+		]
+	},
+	{
+		"id": 8,
+		"content": "<p><img class='icon_carta' src='img/icone_correspondencia.png' />Pedido de noivado </p>",
+		"start": "1891/04/05",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Pedido de noivado ",
+		"info": "",
+		"media": "slider-content-gallery-full",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+			{"url":"img/BR-RJ-COC-OC-COR-PES-2-11-f-1.jpg", "menor":"img/BR-RJ-COC-OC-COR-PES-2-11-f-1-copy.jpg", "subTitle":"Carta de Bento Gonçalves Cruz a Manuel José da Fonseca pedindo consentimento para o noivado de seu filho Oswaldo com Emília da Fonseca (Miloca), e saudando a união das famílias"},
+			{"url":"img/BR-RJ-COC-OC-COR-PES-2-11-f-1v.jpg", "menor":"img/BR-RJ-COC-OC-COR-PES-2-11-f-1v-copy.jpg", "subTitle":""}
+
+		]
+	},
+	{
+		"id": 9,
+		"content": "<p><img class='icon_carta' src='img/icone_correspondencia.png' />Noivado  </p>",
+		"start": "1891/04/13",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Noivado ",
+		"info": "",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"media": "slider-content-gallery-full",
+		"thumbs":[
+			{"url":"img/OC.COR.PES.1.10_f1.jpg", "menor":"img/OC.COR.PES.1.10_f1-copy.jpg", "subTitle":"Carta de Oswaldo Cruz à sua noiva, Emília Fonseca Cruz (Miloca), que se encontrava em Caxambu, Minas Gerais, manifestando saudades"},
+			{"url":"img/OC.COR.PES.1.10_f1v.jpg", "menor":"img/OC.COR.PES.1.10_f1v-copy.jpg", "subTitle":""},
+			{"url":"img/OC.COR.PES.1.10_f2.jpg", "menor":"img/OC.COR.PES.1.10_f2-copy.jpg", "subTitle":""},
+			{"url":"img/OC.COR.PES.1.10_f2v.jpg", "menor":"img/OC.COR.PES.1.10_f2v-copy.jpg", "subTitle":""}
+		]
+	},
+	{
+		"id": 10,
+		"content": "<p><img class='icon_documento'  src='img/documento.png' />Formatura na Faculdade de Medicina</p>",
+		"start": "1892/11/08",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Formatura na Faculdade de Medicina",
+		"info": "",
+		"media": "slider-content-gallery",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+					{"url":"img/08-09-2016-0001-copy.jpg", "menor":"img/08-09-2016-0001-copy.jpg", "subTitle":"DIPLOMA  +  TESE :   <a href=\"http://www.labdigital.icict.fiocruz.br/flipbook/these_oswaldo_cruz/index.html\" target=\"_blank\">http://www.labdigital.icict.fiocruz.br/flipbook/these_oswaldo_cruz/index.html</a>"}
+		]
+	},
+	{
+		"id": 11,
+		"content": "<p><img class='icon_imagem_imagem'  src='img/imagem.png'/>Clínica médica </p>",
+		"start": "1892/12/01",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Clínica médica ",
+		"info": "",
+		"media": "slider-content-gallery",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+			{"url":"img/16.jpg", "menor":"img/16-copy.jpg", "subTitle":"Lagoa Rodrigo de Freitas, tendo ao fundo a Fábrica de Tecidos Corcovado. s/d. Foto Marc Ferrez. Acervo Instituto Moreira Salles. Após a morte do pai em 1892, Oswaldo Cruz assume a sua função como médico no serviço clínico da Fábric"}
+		]
+	},
+	{
+		"id": 12,
+		"content": "<p><img class='icon_imagem_imagem'  src='img/imagem.png'/><img class='icon_documento'  src='img/documento.png' />Casamento</p> ",
+		"start": "1893/01/05",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Casamento",
+		"info": "",
+		"media": "slider-content-gallery",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+			{"url":"img/IMAGEM-2.jpg", "menor":"img/IMAGEM-2-copy.jpg", "subTitle":"Emília da Fonseca Cruz. s.d.;s.l."},
+			{"url":"img/18.jpg", "menor":"img/18-copy.jpg", "subTitle":"Participação do casamento de Oswaldo e Emília Cruz."}
+		]
+	},
+	{
+		"id": 13,
+		"content": "<p><img class='icon_documento'  src='img/documento.png' />Residência no Jardim Botânico</p> ",
+		"start": "1893/03/01",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Residência no Jardim Botânico",
+		"info": "",
+		"media": "slider-content-gallery",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+			{"url":"img/BR-RJ-COC-OC-DP-2-2.jpg", "menor":"img/BR-RJ-COC-OC-DP-2-2-copy.jpg", "subTitle":"Página de diário pessoal intitulado por Oswaldo Cruz de Livro da Verdade. Nele constam desde a contabilidade doméstica, passando por fatos marcantes de sua vida, até versos e pensamentos. Nesta página registra os rendimentos auferidos no ano de 1893 e a mudança para a nova casa na rua Jardim Botânico nº9 no dia 19 de abril"}
+		]
+	},
+	{
+		"id": 14,
+		"content": "<p><img class='icon_documento'  src='img/documento.png' />Epidemia de cólera morbus no Vale do Paraíba</p>",
+		"start": "1894/01/01",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Epidemia de cólera morbus no Vale do Paraíba",
+		"info": "",
+		"media": "slider-content-gallery",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+			{"url":"img/63a.jpg", "menor":"img/63a-copy.jpg", "subTitle":""}
+		]
+	},
+	{
+		"id": 15,
+		"content": "<p><img class='icon_imagem_imagem'  src='img/imagem.png'/>Nascimento da primeira filha</p>",
+		"start": "1894/11/16",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Nascimento da primeira filha ",
+		"info": "",
+		"media": "slider-content-gallery",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+			{"url":"img/Photo0061.jpg", "menor":"img/Photo0061-copy.jpg", "subTitle":" Elisa Oswaldo Cruz (1894-19?). s.l.; s.d.  O casal teria mais cinco filhos: Bento (1895-1941), Hercília (1898-1968), Oswaldo (1904-1977), Zahra (1907-1908), Walter (1910-1967)"}
+		]
+	},
+	{
+		"id": 16,
+		"content": "<p><img class='icon_imagem_imagem'  src='img/imagem.png'/>Policlínica Geral do Rio de Janeiro</p>",
+		"start": "1894/12/29",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Policlínica Geral do Rio de Janeiro",
+		"info": "",
+		"media": "slider-content-gallery",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+					{"url":"img/21.jpg", "menor":"img/21-copy.jpg", "subTitle":"Policlínica Geral do Rio de Janeiro. s.d. Oswaldo Cruz assume a chefia do Laboratório de Análise Patológica e de Microbiologia da Policlínica à convite do médico Egídio Sales Guerra"}
+
+		]
+	},
+	{
+		"id": 17,
+		"content": "<p><img class='icon_documento'  src='img/documento.png' />Sociedade Propagadora de Instrução das Classes Operárias da Lagoa</p>",
+		"start": "1895/06/10",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Sociedade Propagadora de Instrução das Classes Operárias da Lagoa",
+		"info": "",
+		"media": "slider-content-gallery",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+			{"url":"img/22.jpg", "menor":"img/22-copy.jpg", "subTitle":"Nomeação de Oswaldo Cruz como sócio-efetivo da Sociedade Propagadora, entidade filantrópica situada no bairro de Botafogo, em que realiza atendimento gratuito à população pobre do bairro e arredores"}
+		]
+	},
+	{
+		"id": 18,
+		"content": "<p><img class='icon_documento'  src='img/documento.png' />Morte de Louis Pasteur </p> ",
+		"start": "1895/09/28",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Morte de Louis Pasteur ",
+		"info": "",
+		"media": "slider-content-gallery",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+			{"url":"img/30.jpg", "menor":"img/30-copy.jpg", "subTitle":"Página de Diário de Laboratório de Oswaldo Cruz, onde registra a data de morte de Louis Pasteur"}
+
+		]
+	},
+	{
+		"id": 19,
+		"content": "<p><img class='icon_imagem_imagem'  src='img/imagem.png'/>Estudos em Paris</p>",
+		"start": "1897/01/01",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Estudos em Paris",
+		"info": "",
+		"media": "slider-content-gallery",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+			{"url":"img/O.C.jpg", "menor":"img/O.C-copy.jpg", "subTitle":"Oswaldo Cruz sentado em sua sala de trabalho no apartamento de Paris. s.d.       "}
+		]
+	},
+	{
+		"id": 20,
+		"content": "<p><img class='icon_imagem_imagem'  src='img/imagem.png'/><img class='icon_documento'  src='img/documento.png' />Instituto Pasteur de Paris</p>",
+		"start": "1897/06/01",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Instituto Pasteur de Paris",
+		"info": "",
+		"media": "slider-content-gallery",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+			{"url":"img/24.jpg", "menor":"img/24-copy.jpg", "subTitle":" Instituto Pasteur de Paris. s.d."},
+			{"url":"img/26.jpg", "menor":"img/26-copy.jpg", "subTitle":"Caderno de anotações de aula de Oswaldo Cruz do Curso de Microbia Technica do Instituto Pasteur. Caderno nº2. Paris"}
+
+		]
+	},
+	{
+		"id": 21,
+		"content": "<p><img class='icon_documento'  src='img/documento.png' />Especializações em medicina legal e em urologia</p>",
+		"start": "1898/01/01",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Especializações em medicina legal e em urologia",
+		"info": "",
+		"media": "slider-content-gallery",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+			{"url":"img/27.jpg", "menor":"img/27-copy.jpg", "subTitle":"Separata do Estudo toxicológico da Rícina elaborado por Oswaldo Cruz durante especialização feita no Instituto de Toxicologia de Paris, publicado em <span lang=\"fr\"><em>Annales d´higiene publique et de medicine legal</em></span>"}
+
+		]
+	},
+	{
+		"id": 22,
+		"content": "<p>Estágio no Serviço Clínico de Urologia do Hospital Necker  </p>",
+		"start": "1898/02/01",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Estágio no Serviço Clínico de Urologia do Hospital Necker  ",
+		"info": "",
+		"media": "slider-content-gallery",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+
+		]
+	},
+	{
+		"id": 23,
+		"content": "<p><img class='icon_imagem_imagem'  src='img/imagem.png'/>Formatura no Instituto Pasteur </p>",
+		"start": "1898/03/01",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Formatura no Instituto Pasteur ",
+		"info": "",
+		"media": "slider-content-gallery",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+					{"url":"img/28_legendada.jpg", "menor":"img/28_legendada-copy.jpg", "subTitle":"Formatura da turma do Instituto Pasteur  de 1898. Da esquerda para à direita, sentados, Jean Binot (5º), Elie Metchnikoff (6º); Emile Roux (7º);Amédée Borrel (8º). Na fila acima, da direita para à esquerda, Oswaldo Cruz (3º). Acervo Instituto Pasteur de Paris   "}
+
+		]
+	},
+	{
+		"id": 24,
+		"content": "<p><img class='icon_documento'  src='img/documento.png' />Visita à Garches</p>",
+		"start": "1898/04/06",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Visita à Garches",
+		"info": "",
+		"media": "slider-content-gallery",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+					{"url":"img/29.jpg", "menor":"img/29-copy.jpg", "subTitle":"Caderneta de Garches, em que Oswaldo Cruz descreve a visita que fez, em 1898, na companhia de Émile Roux, ao anexo do Instituto Pasteur, em Garches, propriedade cedida a Louis Pasteur para realizar suas experiências sobre a raiva"}
+		]
+	},
+	{
+		"id": 25,
+		"content": "<p><img class='icon_imagem_imagem'  src='img/imagem.png'/>Retorno da família ao Brasil</p>",
+		"start": "1899/08/02",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Retorno da família ao Brasil",
+		"info": "",
+		"media": "slider-content-gallery",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+					{"url":"img/FOC(OC)1-5-1-copy.jpg", "menor":"img/FOC(OC)1-5-1-copy.jpg", "subTitle":"Granja do Vidigal, residência do Comendador Manuel José da Fonseca. Da esquerda para a direita, em pé: Samuel Ferreira dos Santos, cunhado de Oswaldo Cruz, com filho ao colo, e sua esposa Alice Gonçalves Cruz, irmã de Oswaldo Cruz; Emília da Fonseca Cruz (Miloca); Oswaldo Cruz e seu cunhado Joaquim Cândido de Andrade.  Na segunda fileira: Elisa Adélia da Cunha Fonseca (mãe de Miloca); Elisa Oswaldo Cruz (Liseta);  Manuel José da Fonseca (pai de Miloca); Amália Taborda de Bulhões, mãe de Oswaldo Cruz com o neto Bento Oswaldo Cruz ao colo. Na terceira fileira: Hortência Gonçalves Cruz, irmã de Oswaldo Cruz; Maria Cândida Fonseca Dias (Miúça), irmã de Miloca; Elisa da Cunha Fonseca (Yayá), irmã de Miloca; Amália Gonçalves Cruz, irmã de Oswaldo Cruz, casada com Joaquim Cândido de Andrade"}
+
+		]
+	},
+	{
+		"id": 26,
+		"content": "<p>Posse como membro titular na Academia Nacional de Medicina</p>",
+		"start": "1899/08/24",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Posse como membro titular na Academia Nacional de Medicina",
+		"info": "",
+		"media": "slider-content-gallery",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[]
+	},
+	{
+		"id": 27,
+		"content": "<p><img class='icon_documento'  src='img/documento.png' />Laboratório de análises clínicas e consultório de urologia</p>",
+		"start": "1899/09/01",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Laboratório de análises clínicas e consultório de urologia",
+		"info": "",
+		"media": "slider-content-gallery",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+			{"url":"img/31_31a.jpg", "menor":"img/31_31a-copy.jpg","subTitle":"Folheto do Gabinete de Microscopia e Microbiologia Clínicas do dr. Gonçalves Cruz, travessa de S. Francisco de Paula. 1900 "}
+		]
+	},
+	{
+		"id": 28,
+		"content": "<p><img class='icon_carta' src='img/icone_correspondencia.png' />Epidemia de peste bubônica em Santos</p>",
+		"start": "1899/10/24",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Epidemia de peste bubônica em Santos",
+		"info": "",
+		"media": "slider-content-gallery-full",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+			{"url":"img/36.jpg", "menor":"img/36-copy.jpg", "subTitle":"Peste de Santos. Diário de Laboratório"},
+			{"url":"img/36a-F1v.jpg", "menor":"img/36a-F1v.jpg", "subTitle":"Peste de Santos. Diário de Laboratório"},
+			{"url":"img/36a-F2.jpg", "menor":"img/36a-F2.jpg", "subTitle":""}
+		]
+	},
+	{
+		"id": 29,
+		"content": "<p><img class='icon_carta' src='img/icone_correspondencia.png' />Acidente com <em>yersinia pestis</em></p>",
+		"start": "1899/11/01",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Acidente com <em>yersinia pestis</em>",
+		"info": "",
+		"media": "slider-content-gallery-full",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+			{"url":"img/34_f1.jpg", "menor":"img/34_f1-copy.jpg", "subTitle":"Carta de Oswaldo Cruz para a esposa Emília da Fonseca (Miloca) relatando a aflição ao se inocular acidentalmente com o bacilo da peste bubônica, mas do qual estava livre, segundo suas palavras: \"graças ao soro que vou aí [Manguinhos] preparar a fim de preservar e curar nossos patrícios caso a terrível moléstia aí chegue [capital federal]\""},
+			{"url":"img/34_f1v.jpg", "menor":"img/34_f1v-copy.jpg", "subTitle":""},
+			{"url":"img/34_f2.jpg", "menor":"img/34_f2-copy.jpg", "subTitle":""},
+			{"url":"img/34_f2v.jpg", "menor":"img/34_f2v-copy.jpg", "subTitle":""}
+
+
+		]
+	},
+	{
+		"id": 30,
+		"content": "<p><img class='icon_documento'  src='img/documento.png' />Associação dos Empregados no Comércio </p>",
+		"start": "1900/01/02",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Associação dos Empregados no Comércio ",
+		"info": "",
+		"media": "slider-content-gallery-full",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+					{"url":"img/69.jpg", "menor":"img/69-copy.jpg", "subTitle":" Folheto do Gabinete de Microscopia e Microbiologia  Clinicas, dirigido por Oswaldo Cruz na Associação dos Empregados no Comércio do Rio de Janeiro"},
+					{"url":"img/69a.jpg", "menor":"img/69a-copy.jpg", "subTitle":""},
+					{"url":"img/69b.jpg", "menor":"img/69b-copy.jpg", "subTitle":""}
+		]
+	},
+	{
+		"id": 31,
+		"content": "<p><img class='icon_documento'  src='img/documento.png' />Criação do Instituto Soroterápico Federal</p>",
+		"start": "1900/05/24",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Criação do Instituto Soroterápico Federal",
+		"info": "",
+		"media": "slider-content-gallery",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+					{"url":"img/46.jpg", "menor":"img/46-copy.jpg", "subTitle":"Oficio nº490  de Nuno de Andrade, diretor Geral de Saúde Pública, ao barão de Pedro Afonso comunicando a autorização do ministro da Justiça e Negócios Interiores, Epitácio Pessoa, para a instalação  do Instituto Soroterápico, e sua nomeação como diretor "}
+
+
+		]
+	},
+	{
+		"id": 32,
+		"content": "<p><img class='icon_documento'  src='img/documento.png' />Início do trabalho do Instituto Soroterápico Federal</p>",
+		"start": "1900/05/25",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Início do trabalho do Instituto Soroterápico Federal",
+		"info": "",
+		"media": "slider-content-gallery",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+			{"url":"img/47.jpg", "menor":"img/47-copy.jpg", "subTitle":"Ofício nº 1 do barão de Pedro Afonso ao diretor Geral de Saúde Pública, Nuno de Andrade, comunicando o início  do trabalho no Instituto Soroterápico Federal"}
+
+		]
+	},
+	{
+		"id": 33,
+		"content": "<p><img class='icon_imagem_imagem'  src='img/imagem.png'/>Fundação da Policlínica de Botafogo</p>",
+		"start": "1900/06/10",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Fundação da Policlínica de Botafogo",
+		"info": "",
+		"media": "slider-content-gallery",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+			{"url":"img/68.jpg", "menor":"img/68-copy.jpg", "subTitle":" Sede da Policlínica de Botafogo na Avenida Pasteur, 72, instalada inicialmente na rua Bambina, 45, sede da Sociedade Propagadora da Instrução das Classes Operárias da Freguesia da Lagoa. s.d. Augusto Malta. Acervo Museu da Imagem e do Som.  Oswaldo Cruz participa da cerimônia de fundação dessa entidade filantrópica, onde passa a atender gratuitamete à população pobre do bairro de Botafogo e arredores, e realiza as primeiras pesquisas sobre a febre amarela em posto de vacinação antipestosa implantado em 1901"}
+
+		]
+	},
+	{
+		"id": 34,
+		"content": "<img class='icon_documento'  src='img/documento.png' />Direção técnica do Instituto Soroterápico Federal",
+		"start": "1900/07/06",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Direção técnica do Instituto Soroterápico Federal",
+		"info": "",
+		"media": "slider-content-gallery-full",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+			{"url":"img/54.jpg", "menor":"img/54-copy.jpg", "subTitle":"Ofício n. 12 do barão de Pedro Afonso a Nuno de Andrade, comunicando que, com o desligamento de Ismael da Rocha da função de bacteriologista, a parte técnica do Instituto Soroterápico ficará sob a direção de Oswaldo Cruz, que atuava no serviço de soro junto com Ezequiel Dias"},
+			{"url":"img/54a.jpg", "menor":"img/54a-copy.jpg", "subTitle":""}
+
+		]
+	},
+	{
+		"id": 35,
+		"content": "<img class='icon_documento'  src='img/documento.png' />Primeiro trabalho sobre mosquitos",
+		"start": "1901",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Primeiro trabalho sobre mosquitos",
+		"info": "",
+		"media": "slider-content-gallery",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+			{"url":"img/87.jpg", "menor":"img/87-copy.jpg", "subTitle":" Contribuição para o estudo dos culicídeos do Rio de Janeiro. Rio de Janeiro, Tipografia Bernard Frères"}
+
+		]
+	},
+	{
+		"id": 36,
+		"content": "<img class='icon_documento'  src='img/documento.png' /><img class='icon_carta' src='img/icone_correspondencia.png' />Residência em Botafogo",
+		"start": "1901/01/01",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Residência em Botafogo",
+		"info": "",
+		"media": "slider-content-galleries-full",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"galleries":
+		{
+			"gallery": 
+			[
+				{"url":"img/BR-RJCOC-OC-DP-02-A.jpg", "menor":"img/BR-RJCOC-OC-DP-02-A-copy.jpg", "subTitle":"Recibo de aluguel da casa da rua Voluntários da Pátria 128, onde foi morar com a família, pelo qual pagava a quantia de 350 mil-réis. Rio de Janeiro, jan. "}
+			],
+			"gallery2": 
+			[
+				{"url":"img/foto-02.jpg", "menor":"img/foto-02-copy.jpg", "subTitle":"Cartão postal retratando a Rua Voluntários da Pátria no início do século XX. Rio de Janeiro, 1904"}
+			]
+		},
+		"thumbs": 
+		[
+			{"url":"img/BR-RJCOC-OC-DP-02-A.jpg", "menor":"img/BR-RJCOC-OC-DP-02-A-copy.jpg", "subTitle":"Recibo de aluguel da casa da rua Voluntários da Pátria 128, onde foi morar com a família, pelo qual pagava a quantia de 350 mil-réis. Rio de Janeiro, jan. "},
+			{"url":"img/foto-02.jpg", "menor":"img/foto-02-copy.jpg", "subTitle":"Cartão postal retratando a Rua Voluntários da Pátria no início do século XX. Rio de Janeiro, 1904"}
+		]
+	},
+	{
+		"id": 37,
+		"content": "<img class='icon_documento'  src='img/documento.png' />Livro da Verdade",
+		"start": "1902/02/01",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Livro da Verdade",
+		"info": "",
+		"media": "slider-content-gallery",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+			{"url":"img/menor-ana.jpg", "menor":"img/menor-ana.jpg", "subTitle":"Páginas do diário pessoal intitulado por Oswaldo Cruz de Livro da Verdade. Nele constam desde a contabilidade doméstica, passando por fatos marcantes de sua vida, até versos e pensamentos. Nesta página registra os ganhos obtidos com 'renda', 'consultório' e 'empregos', representados pela Fábrica de Tecidos Corcovado, o Instituto Soroterápico Federal e Associação dos Empregados do Comercio"}
+		
+		]
+	},
+	{
+		"id": 38,
+		"content": "<img class='icon_imagem_imagem'  src='img/imagem.png'/><img class='icon_carta' src='img/icone_correspondencia.png' />Diretor do Instituto Soroterápico Federal",
+		"start": "1902/12/09",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Diretor do Instituto Soroterápico Federal",
+		"info": "",
+		"media": "slider-content-galleries-full",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"galleries":{
+			"gallery":[{"menor":"img/70-copy.jpg","url":"img/70.jpg", "subTitle":"Carta do barão de Pedro Afonso a Nuno de Andrade, diretor geral de Saúde Pública, formalizando sua exoneração da direção do Instituto Soroterápico Federal, que foi assumida por Oswaldo Cruz; "},{"url":"img/70.jpg", "subTitle":""},{"url":"img/70-copy.jpg", "subTitle":""}, {"url":"img/60.jpg", "subTitle":""}],
+			"gallery2":[{"menor":"img/60-copy.jpg", "url":"img/60.jpg", "subTitle":"Primitivas instalações da Fazenda Manguinhos adaptadas pelo barão Pedro Afonso para o Instituto Soroterápico Federal. s.d."}]
+			
+		},	
+		"thumbs":[
+			{"url":"img/70.jpg", "menor":"img/70-copy.jpg", "subTitle":"Carta do barão de Pedro Afonso a Nuno de Andrade, diretor geral de Saúde Pública, formalizando sua exoneração da direção do Instituto Soroterápico Federal, que foi assumida por Oswaldo Cruz;  "},
+			{"url":"img/60.jpg", "menor":"img/60-copy.jpg", "subTitle":"Primitivas instalações da Fazenda Manguinhos adaptadas pelo barão Pedro Afonso para o Instituto Soroterápico Federal. s.d. "}
+
+		]
+	},
+	
+	{
+		"id": 39,
+		"content": "<img class='icon_imagem_imagem'  src='img/imagem.png'/><img class='icon_documento'  src='img/documento.png' />Diretoria Geral de Saúde Pública",
+		"start": "1903/03/23",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Diretoria Geral de Saúde Pública",
+		"info": "",
+		"media": "slider-content-galleries-full",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},"galleries":{
+			"gallery":[{"menor":"img/71-copy.jpg", "url":"img/71.jpg", "subTitle":"Nomeação de Oswaldo Cruz para ocupar o cargo de diretor da Diretoria Geral de Saúde Pública pelo presidente da República Francisco de Paula Rodrigues Alves, com a missão de elaborar um plano para a reforma dos serviços sanitários da capital federal, integrado ao projeto de reforma urbana empreendido pelo prefeito Pereira Passos"}],
+			"gallery2":[{"menor":"img/FOC-(OC)3-4-copy.jpg","url":"img/FOC-(OC)3-4-.jpg", "subTitle":"Oswaldo Cruz  aos 30 anos, quando assumiu a Diretoria Geral de Saúde Pública"}]
+			
+		},
+		"thumbs":[
+			{"url":"img/71.jpg", "menor":"img/71-copy.jpg", "subTitle":"Nomeação de Oswaldo Cruz para ocupar o cargo de diretor da Diretoria Geral de Saúde Pública pelo presidente da República Francisco de Paula Rodrigues Alves, com a missão de elaborar um plano para a reforma dos serviços sanitários da capital federal, integrado ao projeto de reforma urbana empreendido pelo prefeito Pereira Passos"},
+			{"url":"img/FOC-(OC)3-4-.jpg", "menor":"img/FOC-(OC)3-4-copy.jpg", "subTitle":"Oswaldo Cruz  aos 30 anos, quando assumiu a Diretoria Geral de Saúde Pública"}
+
+
+		]
+	},
+	{
+		"id": 40,
+		"content": "Congresso Nacional aprova Novo Código Sanitário elaborado por Oswaldo Cruz",
+		"start": "1904/01/01",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Congresso Nacional aprova Novo Código Sanitário elaborado por Oswaldo Cruz",
+		"info": "",
+		"media": "slider-content-gallery",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+
+		]
+	},
+	{
+		"id": 41,
+		"content": "Início da campanha contra a peste bubônica",
+		"start": "1904/01/30",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Início da campanha contra a peste bubônica",
+		"info": "",
+		"media": "slider-content-gallery",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[]
+	},
+	{
+		"id": 42,
+		"content": "<img class='icon_imagem_imagem'  src='img/imagem.png'/>Início da construção de novas edificações no Instituto Soroterápico Federal",
+		"start": "1904/02/01",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Início da construção de novas edificações no Instituto Soroterápico Federal",
+		"info": "",
+		"media": "slider-content-gallery",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+			{"url":"img/11.jpg", "menor":"img/11-copy.jpg", "subTitle":"Pavilhão da Peste em construção (atual Pavilhão do Relógio). Primeira edificação do conjunto arquitetônico histórico de Manguinhos a ser erguida e destinada à preparação de soro e vacina contra a peste bubônica"}
+
+		]
+	},
+	{
+		"id": 43,
+		"content": "Congresso Nacional aprova a lei da vacina obrigatória contra a varíola",
+		"start": "1904/10/31",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Congresso Nacional aprova a lei da vacina obrigatória contra a varíola",
+		"info": "",
+		"media": "slider-content-gallery",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[]
+	},
+	{
+		"id": 44,
+		"content": "Criação da Liga contra a vacina obrigatória ",
+		"start": "1904/11/05",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Criação da Liga contra a vacina obrigatória ",
+		"info": "",
+		"media": "slider-content-gallery",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[]
+	},
+	{
+		"id": 45,
+		"content": "<p>Início da revolta popular </p>",
+		"start": "1904/11/10",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Início da revolta popular ",
+		"info": "",
+		"media": "slider-content-gallery",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+		]
+	},
+	{
+		"id": 46,
+		"content": "<p><img class='icon_carta' src='img/icone_correspondencia.png' />Ameaças  a Oswaldo Cruz</p>",
+		"start": "1904/11/14",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Ameaças  a Oswaldo Cruz",
+		"info": "",
+		"media": "slider-content-gallery-full",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+			{"url":"img/OC.COR.PES.3.6.jpg", "menor":"img/OC.COR.PES.3.6-copy.jpg", "subTitle":"Bilhete de Oswaldo Cruz à esposa informando que  passou a noite na casa da família de Carlos Chagas por temer ameaças de invasão de sua casa por parte dos revoltosos"},
+			{"url":"img/OC.COR.PES.3.6.f.jpg", "menor":"img/OC.COR.PES.3.6.f-copy.jpg", "subTitle":""}
+			
+
+		]
+	},
+	{
+		"id": 47,
+		"content": "<p>Governo Federal reprime a reação popular, declara estado de sítio e suspende a obrigatoriedade da vacina</p>",
+		"start": "1904/11/16",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Governo Federal reprime a reação popular, declara estado de sítio e suspende a obrigatoriedade da vacina",
+		"info": "",
+		"media": "slider-content-gallery",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[]
+	},
+	{
+		"id": 48,
+		"content": "<p>Expedição aos portos marítimos e fluviais das regiões Norte e Nordeste </p>",
+		"start": "1905/09/01",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Expedição aos portos marítimos e fluviais das regiões Norte e Nordeste ",
+		"info": "",
+		"media": "slider-content-gallery",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[]
+	},
+	{
+		"id": 49,
+		"content": "<p>Expedição aos portos marítimos e fluviais da região sul</p>",
+		"start": "1906/01/01",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Expedição aos portos marítimos e fluviais da região Sul",
+		"info": "",
+		"media": "slider-content-gallery",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[]
+	},
+	{
+		"id": 50,
+		"content": "<p><img class='icon_imagem_imagem'  src='img/imagem.png'/>Residência na praia de Botafogo</p>",
+		"start": "1907/02/01",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Residência na praia de Botafogo",
+		"info": "",
+		"media": "slider-content-gallery",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+					{"url":"img/Casa-de-Botafogo.jpg", "menor":"img/Casa-de-Botafogo-copy.jpg", "subTitle":"Casa projetada por Luíz Moraes Júnior em que a família Oswaldo Cruz passa a morar nesse ano, e que  possuía uma câmara escura para revelação de fotografias"}
+
+
+		]
+	},
+	{
+		"id": 51,
+		"content": "</p>Comunica ao presidente da República Afonso Pena a extinção da epidemia de febre amarela na capital federal  </p>",
+		"start": "1907/03/08",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Comunica ao presidente da República Afonso Pena a extinção da epidemia de febre amarela na capital federal  ",
+		"info": "",
+		"media": "slider-content-gallery",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+
+		]
+	},
+	{
+		"id": 52,
+		"content": "<img class='icon_documento'  src='img/documento.png' />Viagem para Congresso de Higiene na Alemanha ",
+		"start": "1907/08/01",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Viagem para Congresso de Higiene na Alemanha ",
+		"info": "",
+		"media": "slider-content-gallery",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+			{"url":"img/115.jpg", "menor":"img/115-copy.jpg", "subTitle":"Catálogo do XIV Congresso Internacional de Higiene e Demografia, realizado em Berlim entre 23 de setembro e 12 de outubro."}
+
+		]
+	},
+	{
+		"id": 53,
+		"content": "<img class='icon_desenho'  src='img/desenho.png' />Primeiros sintomas da doença",
+		"start": "1907/08/30",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Primeiros sintomas da doença",
+		"info": "",
+		"media": "slider-content-gallery",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+			{"url":"img/IOC(OC)-9-1.jpg", "menor":"img/IOC(OC)-9-1-copy.jpg", "subTitle":"Oswaldo Cruz desenhou o próprio túmulo após seu médico Egidio Salles Guerra confirmar diagnóstico de esclerose renal, por ele pressentido como uma sentença de morte. No desenho fornece indicações para sua construção, entre as quais, se lê, abaixo, à direita, a localização na praia do Vigidal em frente ao mar. Na tampa em bronze, ao centro, consta o seu primeiro nome ornado com as palavras saber.esperar.poder.querer, mesma inscrição do timbre usado em suas cartas. Acima à direita,  uma urna para cinzas em que se lê: Oswaldo G.Cruz &#1006; em Berlim 8 1907. Cinzas. Acervo pessoal Eduardo Oswaldo Cruz."}
+
+		]
+	},	
+	{
+		"id": 54,
+		"content": "<img class='icon_imagem_imagem'  src='img/imagem.png'/>Mostra do Instituto na Exposição de Higiene ",
+		"start": "1907/09/01",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Mostra do Instituto na Exposição de Higiene ",
+		"info": "",
+		"media": "slider-content-gallery",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+			{"url":"img/116.jpg", "menor":"img/116-copy.jpg", "subTitle":"Mostra na Exposição de Higiene (anexa ao Congresso Internacional de Higiene e Demografia), dos trabalhos realizados no Instituto de Patologia Experimental, nova denominação do Instituto Soroterápico Federal a partir de 1907"},
+			{"url":"img/147.jpg", "menor":"img/147-copy.jpg", "subTitle":"Foto estereoscópica tirada por Oswaldo Cruz do estande da mostra dos trabalhos do Instituto de Patologia Experimental na Exposição de Higiene. Berlim, 1907. Acervo pessoal Eduardo Oswaldo Cruz."}
+
+
+		]
+	},
+	{
+		"id": 55,
+		"content": "<img class='icon_imagem_imagem'  src='img/imagem.png'/>Mostra da Diretoria Geral de Saúde Pública na Exposição de Higiene",
+		"start": "1907/09/20",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Mostra da Diretoria Geral de Saúde Pública na Exposição de Higiene",
+		"info": "",
+		"media": "slider-content-gallery",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+			{"url":"img/117.jpg", "menor":"img/117-copy.jpg", "subTitle":"Mostra na Exposição de Higiene da distribuição geográfica que demonstra a diminuição gradual da peste no Rio de Janeiro, elaborada pela Seção de Demografia da Diretoria Geral de Saúde Pública. Berlim, 1907."},
+			{"url":"img/120.jpg", "menor":"img/120-copy.jpg", "subTitle":"Mostra na Exposição de Higiene da distribuição geográfica que demonstra a diminuição gradual e o desaparecimento da febre amarela no Rio de Janeiro, elaborada pela Seção de Demografia da Diretoria Geral de Saúde Pública. Berlim, 1907."}
+
+
+		]
+	},
+	{
+		"id": 56,
+		"content": "<img class='icon_imagem_imagem'  src='img/imagem.png'/><img class='icon_carta' src='img/icone_correspondencia.png' />Medalha de ouro",
+		"start": "1907/10/01",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Medalha de ouro",
+		"info": "",
+		"media": "slider-content-galleries-full",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"galleries":
+		{
+			"gallery":[{"url":"img/121.jpg", "menor":"img/121-copy.jpg", "subTitle":"Medalha de ouro conferida ao Instituto de Patologia Experimental pelo XIV Congresso Internacional de Higiene e Demografia."}],
+			"gallery2":[{"url":"img/123.jpg", "menor":"img/123-copy.jpg", "subTitle":"Telegrama de Henrique Figueiredo de Vasconcellos identificando o recebimento da medalha de ouro como a consagração de Oswaldo Cruz. Berlim, 1 out"}]
+		},
+		
+		"thumbs":[
+			{"url":"img/121.jpg", "menor":"img/121-copy.jpg", "subTitle":"Medalha de ouro conferida ao Instituto de Patologia Experimental pelo XIV Congresso Internacional de Higiene e Demografia."},
+			{"url":"img/123.jpg", "menor":"img/123-copy.jpg", "subTitle":"Telegrama de Henrique Figueiredo de Vasconcellos identificando o recebimento da medalha de ouro como a consagração de Oswaldo Cruz. Berlim, 1 out"}
+
+		]
+	},
+	{
+		"id": 57,
+		"content": "<img class='icon_carta' src='img/icone_correspondencia.png' />Encontro com presidente dos Estados Unidos",
+		"start": "1907/11/12",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Encontro com presidente dos Estados Unidos",
+		"info": "",
+		"media": "slider-content-gallery",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+			{"url":"img/BR-RJCOC-OC-COR-PES-5-22-F-1_ajustada.jpg", "menor":"img/BR-RJCOC-OC-COR-PES-5-22-F-1_ajustada-copy.jpg", "subTitle":"Cartão postal enviado de Washington por Oswaldo Cruz à sua esposa, Emília da Fonseca (Miloca), onde fora encontrar o presidente americano, Theodore Roosevelt, para informá-lo, por solicitação do governo brasileiro, sobre a erradicação da epidemia de febre amarela no Rio de Janeiro"}
+
+		]
+	},
+	{
+		"id": 58,
+		"content": "<img class='icon_documento'  src='img/documento.png' />Delegado do Brasil na Convenção Sanitária no México",
+		"start": "1907/12/02",
+		"end": "1907/12/07",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Delegado do Brasil na Convenção Sanitária no México",
+		"info": "",
+		"media": "slider-content-gallery-full",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+			{"url":"img/125A.jpg", "menor":"img/125A-copy.jpg", "subTitle":"Palestra sobre a  extinção da febre amarela no Rio de Janeiro, apresentada na 3ª Convenção Sanitária Internacional das Repúblicas Americanas, que reuniu vários governos com a finalidade de subscrever compromisso de implementar legislação e serviços sanitários relativos à erradicação da febre amarela em seus territórios"},
+			{"url":"img/125B.jpg", "menor":"img/125B-copy.jpg", "subTitle":""}
+
+		]
+	},
+	{
+		"id": 59,
+		"content": "<img class='icon_carta' src='img/icone_correspondencia.png' />Regresso à Europa",
+		"start": "1907/12/14",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Regresso à Europa",
+		"info": "",
+		"media": "slider-content-gallery-full",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+			{"url":"img/BR-RJ-COC-OC-COR-PES-5-14-f-1.jpg", "menor":"img/BR-RJ-COC-OC-COR-PES-5-14-f-1-copy.jpg", "subTitle":"Carta de Oswaldo Cruz à sua esposa, Emilia da Fonseca ( Miloca), informando que havia deixado Nova York e estava a bordo do Lusitania, \"o maior navio do mundo\", rumo à Liverpool.Lusitania, 14 dez. "},
+			{"url":"img/BR-RJ-COC-OC-COR-PES-5-14-f-1v.jpg", "menor":"img/BR-RJ-COC-OC-COR-PES-5-14-f-1v-copy.jpg", "subTitle":" "},
+			{"url":"img/BR-RJ-COC-COR-PES-5-14-f-2.jpg", "menor":"img/BR-RJ-COC-COR-PES-5-14-f-2-copy.jpg", "subTitle":""},
+			{"url":"img/BR-RJ-COC-OC-COR-PES-5-14-f-2v.jpg", "menor":"img/BR-RJ-COC-OC-COR-PES-5-14-f-2v-copy.jpg", "subTitle":" "}
+
+
+		]
+	},
+	{
+		"id": 60,
+		"content": "<img class='icon_carta' src='img/icone_correspondencia.png' />Escola de Medicina Tropical de Liverpool",
+		"start": "1907/12/21",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Escola de Medicina Tropical de Liverpool",
+		"info": "",
+		"media": "slider-content-gallery-full",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+			{"url":"img/BR-RJ-COC-OC-COR-PES-5-16-f1.jpg", "menor":"img/BR-RJ-COC-OC-COR-PES-5-16-f1-copy.jpg", "subTitle":"Carta de Oswaldo Cruz à sua esposa, Emília da Fonseca (Miloca), comentando a chegada a Liverpool e a visita à Escola de Medicina Tropical, onde almoçou com o diretor Rubert Boyce e seguiu para Londres"},
+			{"url":"img/BR-RJ-COC-OC-COR-PES-5-16-f1v.jpg", "menor":"img/BR-RJ-COC-OC-COR-PES-5-16-f1v-copy.jpg", "subTitle":""},
+			{"url":"img/BR-RJ-COC-OC-COR-PES-5-16-f2.jpg", "menor":"img/BR-RJ-COC-OC-COR-PES-5-16-f2-copy.jpg", "subTitle":""},
+			{"url":"img/BR-RJ-COC-COR-PES-5-16-f-2v.jpg", "menor":"img/BR-RJ-COC-COR-PES-5-16-f-2v-copy.jpg", "subTitle":""}
+
+
+
+		]
+	},
+	{
+		"id": 61,
+		"content": "<img class='icon_documento'  src='img/documento.png' />Membro da  Société de Pathologie Exotique",
+		"start": "1908/01/01",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Membro da  Société de Pathologie Exotique",
+		"info": "",
+		"media": "slider-content-gallery",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+			{"url":"img/133.jpg", "menor":"img/133-copy.jpg", "subTitle":"Diploma da Société de Pathologie Exotique da qual se tornou membro durante estadia em Paris, de onde retornou ao Brasil"}
+
+		]
+	},
+	{
+		"id": 62,
+		"content": "<img class='icon_desenho'  src='img/desenho.png' />Comunicação da descoberta da doença de Chagas na Academia Nacional de Medicina",
+		"start": "1909/04/22",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Comunicação da descoberta da doença de Chagas na Academia Nacional de Medicina",
+		"info": "",
+		"media": "slider-content-gallery",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+			{"url":"img/135.jpg", "menor":"img/135-copy.jpg", "subTitle":"Ilustração (estampa 9) do Conorhinus megistus, inseto popularmente conhecido como barbeiro, transmissor do Trypanossoma cruzi, parasita causador da doença de Chagas (tripanossomíase americana), feita pelo desenhista Manoel de Castro Silva, que trabalhou no Instituto Oswaldo Cruz entre 1908 e 1934. Publicada em: Carlos Chagas. Nova tripanossomíase humana. Memórias do Instituto Oswaldo Cruz, tomo 1(f2), 1909, 159-218 "}
+
+		]
+	},
+	{
+		"id": 63,
+		"content": "<img class='icon_imagem_jornal'  src='img/jornal.png' />IV Congresso Médico Latino-Americano",
+		"start": "1909/08/05",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "IV Congresso Médico Latino-Americano",
+		"info": "",
+		"media": "slider-content-gallery",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+			{"url":"img/142final.jpg", "menor":"img/142final-copy.jpg", "subTitle":"Oswaldo Cruz  no Instituto de Manguinhos, no dia 5 de agosto, data de seu aniversário,  após a condecoração com medalha de ouro oferecida pelo IV Congresso Latino-Americano, realizado no Rio de Janeiro entre 1 de agosto e 30 de setembro. O cientista foi agraciado também com  medalha de prata pela Exposição Internacional de Higiene, anexa ao Congresso"}
+
+		]
+	},
+	{
+		"id": 64,
+		"content": "<img class='icon_documento'  src='img/documento.png' />Exoneração da Diretoria Geral de Saúde Pública ",
+		"start": "1909/08/19",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Exoneração da Diretoria Geral de Saúde Pública ",
+		"info": "",
+		"media": "slider-content-gallery",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+			{"url":"img/144.jpg", "menor":"img/144-copy.jpg", "subTitle":"Ofício de exoneração de Oswaldo Cruz da Diretoria Geral de Saúde Pública por força de lei que impedia a acumulação de cargos públicos"}
+
+		]
+	},
+	{
+		"id": 65,
+		"content": "<img class='icon_documento'  src='img/documento.png' />Sociedade de Higiene Pública e Engenharia Sanitária da Argentina",
+		"start": "1909/10/11",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Sociedade de Higiene Pública e Engenharia Sanitária da Argentina",
+		"info": "",
+		"media": "slider-content-gallery",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+			{"url":"img/133a.jpg", "menor":"img/133a-copy.jpg", "subTitle":"Diploma de membro da Sociedad de Higiene Pública – Ingeniería Sanitaria - Argentina"}
+
+		]
+	},
+	{
+		"id": 66,
+		"content": "<img class='icon_documento'  src='img/documento.png' />Hospital São Sebastião",
+		"start": "1909/11/09",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Hospital São Sebastião",
+		"info": "",
+		"media": "slider-content-gallery",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+			{"url":"img/146.jpg", "menor":"img/146-copy.jpg", "subTitle":"Diploma de agradecimento dos funcionários do Hospital São Sebastião por sua gestão na Diretoria Geral de Saúde Pública"}
+
+		]
+	},
+	{
+		"id": 67,
+		"content": "<img class='icon_documento'  src='img/documento.png' /> Trabalho sobre profilaxia da malária",
+		"start": "1910/04/01",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Trabalho sobre profilaxia da malária",
+		"info": "",
+		"media": "slider-content-gallery",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+			{"url":"img/2-2.jpg", "menor":"img/2-copy.jpg", "subTitle":"<span lang=\"en\"><em>The Prevention of Malaria</em></span>,  obra publicada por Donald Ross, da Escola de Medicina Tropical de Liverpool, que conta com um capítulo escrito por Oswaldo Cruz sobre as ações de profilaxia executadas pelo Instituto de Manguinhos nas regiões central e sul do Brasil"}
+		
+		]
+	},
+	{
+		"id": 68,
+		"content": "<img class='icon_carta' src='img/icone_correspondencia.png' />Convite para participar da Exposição de Higiene em Dresden",
+		"start": "1910/05/12",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Convite para participar da Exposição de Higiene em Dresden",
+		"info": "",
+		"media": "slider-content-gallery",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+			{"url":"img/165.jpg", "menor":"img/165-copy.jpg", "subTitle":" Carta de membro do serviço sanitário do Império alemão ao Instituto Oswaldo Cruz convidando seus cientistas a participar na Exposição Internacional de Higiene que seria realizada em Dresden em 1911 "}
+
+		]
+	},
+	{
+		"id": 69,
+		"content": "<img class='icon_imagem_jornal'  src='img/jornal.png' />Chegada em Belém do  Pará ",
+		"start": "1910/06/25",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Chegada em Belém do  Pará",
+		"info": "",
+		"media": "slider-content-gallery",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+			{"url":"img/149.jpg", "menor":"img/149-copy.jpg", "subTitle":"Notícia divulgada na imprensa sobre o convite do governador do Pará, João Coelho, a Oswaldo Cruz para realizar campanha sanitária contra a febre amarela na capital Belém. A Província do Pará, 30 jun. 1910   "}
+
+		]
+	},
+	{
+		"id": 70,
+		"content": "<img class='icon_imagem_jornal'  src='img/jornal.png' />Ferrovia Madeira-Mamoré ",
+		"start": "1910/07/01",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Ferrovia Madeira-Mamoré ",
+		"info": "",
+		"media": "slider-content-gallery",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+			{"url":"img/148.jpg", "menor":"img/148-copy.jpg", "subTitle":"Oswaldo Cruz entre Carl Lovelace (à esquerda), médico-chefe da empresa Madeira-Mamoré Railway, e o sanitarista Belisário Penna. s.d.  O cientista foi contratado pela empresa para implementar ações de prevenção contra a malária entre os trabalhadores durante as obras de construção da ferrovia, apelidada de Ferrovia do Diabo em virtude do alto índice de mortalidade e morbidade causado por esta e outras doenças"}
+
+		]
+	},
+	{
+		"id": 71,
+		"content": "<img class='icon_imagem_imagem'  src='img/imagem.png'/>Prevenção contra a malária ",
+		"start": "1910/08/01",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Prevenção contra a malária ",
+		"info": "",
+		"media": "slider-content-gallery",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+			{"url":"img/148a.jpg", "menor":"img/menor-ana.jpg", "subTitle":"Oswaldo Cruz, ao centro, de perfil, e a seu lado esquerdo Belisário Pena, visitando o canteiro de obras da ferrovia Madeira-Mamoré (atual estado de Rondônia), onde permaneceu até o início de agosto. s.d. "}
+
+		]
+	},
+	
+	{
+		"id": 72,
+		"content": "<img class='icon_imagem_jornal'  src='img/jornal.png' />Regresso ao Rio de Janeiro",
+		"start": "1910/09/03",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Regresso ao Rio de Janeiro",
+		"info": "",
+		"media": "slider-content-gallery-full",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+			{"url":"img/156.jpg", "menor":"img/156-copy.jpg", "subTitle":"Notícias divulgadas na imprensa sobre o retorno de Oswaldo Cruz ao Rio de Janeiro de viagem aos estados da Amazônia e do Pará. Careta, 3 (?) set. 1910; Revista da Semana, 4 set. 1910"},
+			{"url":"img/154.jpg", "menor":"img/154-copy.jpg", "subTitle":""}
+
+		]
+	},
+	{
+		"id": 73,
+		"content": "<img class='icon_imagem_jornal'  src='img/jornal.png' />Homenagem no Palácio São Luiz",
+		"start": "1910/09/03",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Homenagem no Palácio São Luiz",
+		"info": "",
+		"media": "slider-content-gallery",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+			{"url":"img/158b.jpg", "menor":"img/158b-copy.jpg", "subTitle":"Notícias divulgadas na imprensa sobre a recepção no Palácio São Luiz (nome original do Palácio Monroe), realizada no dia 3 de setembro de 1910, em homenagem a Oswaldo Cruz, que se encontra ao centro, entre o ex-presidente Francisco de Paula Rodrigues Alves e o diretor da Saúde Pública, Henrique Figueiredo de Vasconcellos. Revista da Semana, 11 set. 1910"}
+
+		]
+	},
+	{
+		"id": 74,
+		"content": "<img class='icon_imagem_jornal'  src='img/jornal.png' />Entrevista ao Correio da Manhã",
+		"start": "1910/09/04",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Entrevista ao Correio da Manhã",
+		"info": "",
+		"media": "slider-content-gallery",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+			{"url":"img/159.jpg", "menor":"img/159-copy.jpg", "subTitle":"Entrevista de Oswaldo Cruz sobre a viagem aos estados do Amazonas e do Pará. Correio da Manhã, [4] set. 1910"}
+
+		]
+	},
+	{
+		"id": 75,
+		"content": "<img class='icon_imagem_jornal'  src='img/jornal.png' />Embarque para Belém do Pará",
+		"start": "1910/10/27",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Embarque para Belém do Pará",
+		"info": "",
+		"media": "slider-content-gallery",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+			{"url":"img/BR-RJ-COC-OC-RJ-7-f-51.jpg", "menor":"img/BR-RJ-COC-OC-RJ-7-f-51.jpg", "subTitle":"Notícia divulgada na imprensa sobre a partida de Oswaldo Cruz para Belém do Pará para realizar campanha sanitária contra a febre amarela nessa cidade. A Imprensa, 28 out. 1910"},
+			{"url":"img/BR-RJ-COC-OC-RJ-7-f-51_extrato.jpg", "menor":"img/BR-RJ-COC-OC-RJ-7-f-51_extrato.jpg", "subTitle":""}
+
+		]
+	},
+	{
+		"id": 76,
+		"content": "<img class='icon_imagem_jornal'  src='img/jornal.png' />Serviço de profilaxia da febre amarela em Belém",
+		"start": "1910/11/09",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Serviço de profilaxia da febre amarela em Belém",
+		"info": "",
+		"media": "slider-content-gallery",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+			{"url":"img/161.jpg", "menor":"img/161-copy.jpg", "subTitle":"Publicação da Lei 1140, de 5 de novembro de 1910, no Diário Oficial do Estado do Pará de 9 de novembro de 1910, estabelecendo o Serviço de Profilaxia Específica da Febre Amarela, e notícias divulgadas na imprensa paraense sobre a campanha de saneamento "}
+			
+		]
+	},
+	{
+		"id": 77,
+		"content": "<img class='icon_imagem_jornal'  src='img/jornal.png' /><img class='icon_imagem_imagem'  src='img/imagem.png'/>Campanha contra a febre amarela em Belém",
+		"start": "1910/11/11",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Campanha contra a febre amarela em Belém",
+		"info": "",
+		"media": "slider-content-galleries-full",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"galleries":
+		{
+			"gallery":[{"url":"img/163.jpg", "menor":"img/163-copy.jpg", "subTitle":"Notícia divulgada na imprensa sobre os esclarecimentos de Oswaldo Cruz à população da cidade de Belém acerca da campanha sanitária contra a febre amarela. Província do Pará, 11 nov. 1910;  "}],
+			"gallery2":[{"url":"img/177.jpg", "menor":"img/177-copy.jpg", "subTitle":" Médicos que participaram da campanha contra a febre amarela em Belém. Da esquerda para a direita, sentados: Serafim da Silva, Leocádio Chaves, João Pedroso, Mauricio de Abreu e Belisário Penna. Em pé, da esquerda para a direita, Pedro d’Albuquerque Pedroso é o 3º e Caetano Cerqueira, o 4º.  s.d."}]
+		},
+		"thumbs":[
+			{"url":"img/163.jpg", "menor":"img/163-copy.jpg", "subTitle":"Notícia divulgada na imprensa sobre os esclarecimentos de Oswaldo Cruz à população da cidade de Belém acerca da campanha sanitária contra a febre amarela. Província do Pará, 11 nov. 1910;  "},
+			{"url":"img/177.jpg", "menor":"img/177-copy.jpg", "subTitle":" Médicos que participaram da campanha contra a febre amarela em Belém. Da esquerda para a direita, sentados: Serafim da Silva, Leocádio Chaves, João Pedroso, Mauricio de Abreu e Belisário Penna. Em pé, da esquerda para a direita, Pedro d’Albuquerque Pedroso é o 3º e Caetano Cerqueira, o 4º.  s.d."}
+
+		]
+	},
+	{
+		"id": 78,
+		"content": "<img class='icon_imagem_jornal'  src='img/jornal.png' />Membro da Academia de Ciências de Lisboa",
+		"start": "1911/02/01",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Membro da Academia de Ciências de Lisboa",
+		"info": "",
+		"media": "slider-content-gallery",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+			{"url":"img/164.jpg", "menor":"img/164-copy.jpg", "subTitle":"Notícia divulgada na imprensa sobre a admissão de Oswaldo Cruz na Academia de Ciências de Lisboa. Lisboa, Serões, n. 68, fev. 1911 "}
+
+		]
+	},
+	
+	{
+		"id": 79,
+		"content": "<img class='icon_documento'  src='img/documento.png' />Exposição Internacional de Higiene Social",
+		"start": "1911/03/01",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Exposição Internacional de Higiene Social",
+		"info": "",
+		"media": "slider-content-gallery-full",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+			{"url":"img/172.jpg", "menor":"img/172-copy.jpg", "subTitle":"Diplomas Gran Prêmio di Benemerenza e d’Onore conferidos a Oswaldo Cruz pela Exposição Internacional de Higiene Social realizada em Roma"},
+			{"url":"img/174.jpg", "menor":"img/174-copy.jpg", "subTitle":""}
+
+		]
+	},
+	{
+		"id": 80,
+		"content": "<img class='icon_documento'  src='img/documento.png' />Condecoração do Instituto Oswaldo Cruz ",
+		"start": "1911/04/01",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Condecoração do Instituto Oswaldo Cruz ",
+		"info": "",
+		"media": "slider-content-gallery",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+			{"url":"img/173.jpg", "menor":"img/173-copy.jpg", "subTitle":"Diploma Grand Prix all´ lstituto Oswaldo Cruz (di Manguinhos) conferido pela Exposição Internacional de Higiene Social realizada em Roma"}
+		]
+	},
+	{
+		"id": 81,
+		"content": "<img class='icon_documento'  src='img/documento.png' />Exposição Internacional de Higiene em Dresden",
+		"start": "1911/05/01",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Exposição Internacional de Higiene em Dresden",
+		"info": "",
+		"media": "slider-content-gallery",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+			{"url":"img/168_169.jpg", "menor":"img/168_169-copy.jpg", "subTitle":"Catálogo e Selo da Exposição Internacional de Higiene em Dresden"}
+
+
+		]
+	},
+	{
+		"id": 82,
+		"content": "<img class='icon_imagem_imagem'  src='img/imagem.png'/>Pavilhão brasileiro em Dresden",
+		"start": "1911/05/15",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Pavilhão brasileiro em Dresden",
+		"info": "",
+		"media": "slider-content-gallery-full",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+			{"url":"img/171c.jpg", "menor":"img/171c-copy.jpg", "subTitle":"Pavilhão brasileiro na Exposição Internacional de Higiene que presentou trabalhos desenvolvidos no Instituto Oswaldo Cruz,  agraciado com o diploma de honra "},
+			{"url":"img/171.jpg", "menor":"img/171-copy.jpg", "subTitle":""}
+
+
+		]
+	},
+	{
+		"id": 83,
+		"content": "<img class='icon_imagem_imagem'  src='img/imagem.png'/>Trabalhos do Instituto Oswaldo ",
+		"start": "1911/05/30",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Trabalhos do Instituto Oswaldo ",
+		"info": "",
+		"media": "slider-content-gallery",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+			{"url":"img/171.jpg", "menor":"img/171-copy.jpg", "subTitle":" Sala da exposição do Instituto Oswaldo Cruz sobre a descoberta da doença de Chagas na Exposição Internacional de Higiene em Dresden"}
+
+		]
+	},
+	{
+		"id": 84,
+		"content": "<img class='icon_imagem_imagem'  src='img/imagem.png'/>Retorno à Belém do Pará ",
+		"start": "1911/06/01",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Retorno à Belém do Pará ",
+		"info": "",
+		"media": "slider-content-galleries-full",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"galleries":
+		{
+			"gallery":[{"url":"img/176.jpg", "menor":"img/176-copy.jpg", "subTitle":"Bonde vedado com tela, utilizado na campanha contra a febre amarela no Pará, para evitar que mosquitos picassem os enfermos nele transportados e propagassem a doença. Foto de Oswaldo Cruz. s.d."}],
+			"gallery2":[{"url":"img/176b.jpg", "menor":"img/176b-copy.jpg", "subTitle":"Guarda sanitário em frente a imóvel coberto com pano americano para realizar fumigação e combater focos do mosquito transmissor da febre amarela"}]
+		},
+		"thumbs":[
+			{"url":"img/176.jpg", "menor":"img/176-copy.jpg", "subTitle":"Bonde vedado com tela, utilizado na campanha contra a febre amarela no Pará, para evitar que mosquitos picassem os enfermos nele transportados e propagassem a doença. Foto de Oswaldo Cruz. s.d."},
+			{"url":"img/176b.jpg", "menor":"img/176b-copy.jpg", "subTitle":"Guarda sanitário em frente a imóvel coberto com pano americano para realizar fumigação e combater focos do mosquito transmissor da febre amarela"}
+
+		]
+	},
+	{
+		"id": 85,
+		"content": "<img class='icon_documento'  src='img/documento.png' />Conselhos ao Povo",
+		"start": "1911/07/01",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Conselhos ao Povo",
+		"info": "",
+		"media": "slider-content-gallery",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+			{"url":"img/175.jpg", "menor":"img/175-copy.jpg", "subTitle":" Texto da Comissão da Profilaxia da Febre Amarela em Belém, dirigido à população da capital, com instruções sobre os meios de evitar a doença. s.d. "}
+
+		]
+	},
+	{
+		"id": 86,
+		"content": "<img class='icon_documento'  src='img/documento.png' />Encerramento da campanha  em Belém do Pará",
+		"start": "1911/10/16",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Encerramento da campanha  em Belém do Pará",
+		"info": "",
+		"media": "slider-content-gallery-full",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+			{"url":"img/178.jpg", "menor":"img/178.jpg", "subTitle":" Ofício de Oswaldo Cruz ao governador do estado do Pará, João Coelho comunicando a erradicação da febre amarela em Belém. Belém, 16 out. 1911  "},
+			{"url":"img/178a.jpg", "menor":"img/178a-copy.jpg", "subTitle":""},
+			{"url":"img/178b.jpg", "menor":"img/178b-copy.jpg", "subTitle":""}
+
+		]
+	},
+	{
+		"id": 87,
+		"content": "<img class='icon_documento'  src='img/documento.png' />Homenagem ",
+		"start": "1911/10/17",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Homenagem ",
+		"info": "",
+		"media": "slider-content-gallery",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+			{"url":"img/180.jpg", "menor":"img/180-copy.jpg", "subTitle":" Convite do banquete em homenagem a Oswaldo Cruz oferecido pelo governador do estado do Pará, João Coelho, no Teatro da Paz"}
+
+		]
+	},
+	{
+		"id": 88,
+		"content": "<img class='icon_imagem_jornal'  src='img/jornal.png' />Entrevista à imprensa carioca",
+		"start": "1911/11/01",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Entrevista à imprensa carioca",
+		"info": "",
+		"media": "slider-content-gallery",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+			{"url":"img/182.jpg", "menor":"img/182-copy.jpg", "subTitle":"Entrevista de Oswaldo Cruz sobre a campanha de saneamento contra a febre amarela na capital do Pará. s.l., s.d."}
+
+		]
+	},
+	{
+		"id": 89,
+		"content": "<img class='icon_imagem_imagem'  src='img/imagem.png'/>Casa em Petrópolis",
+		"start": "1912/02/01",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Casa em Petrópolis",
+		"info": "",
+		"media": "slider-content-gallery",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+			{"url":"img/Foto 70.jpg", "menor":"img/Foto 70.jpg", "subTitle":"Oswaldo Cruz compra casa na rua Montecaseros, 240, em Petrópolis. s.d. Acervo particular família Oswaldo Cruz"}
+
+		]
+	},
+	{
+		"id": 90,
+		"content": "<img class='icon_documento'  src='img/documento.png' />VII Congresso Brasileiro de Medicina e Cirurgia",
+		"start": "1912/03/14",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": " VII Congresso Brasileiro de Medicina e Cirurgia",
+		"info": "",
+		"media": "slider-content-galleries-full",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"galleries":{
+			"gallery":[{"url":"img/186.jpg", "menor":"img/186-copy.jpg", "subTitle":"Recibo de inscrição no VII Congresso Brasileiro de Medicina e Cirurgia. Belo Horizonte, 14 mar. 1912"}],
+			"gallery2": [{"url":"img/187.jpg", "menor":"img/187-copy.jpg", "subTitle":"Cartão de membro no VII Congresso Brasileiro de Medicina e Cirurgia de Belo Horizonte. 1912"}]
+			
+		},
+		"thumbs":[
+			{"url":"img/186.jpg", "menor":"img/186-copy.jpg", "subTitle":"Recibo de inscrição no VII Congresso Brasileiro de Medicina e Cirurgia. Belo Horizonte, 14 mar. 1912"},		
+			{"url":"img/187.jpg", "menor":"img/187-copy.jpg", "subTitle":"Cartão de membro no VII Congresso Brasileiro de Medicina e Cirurgia de Belo Horizonte. 1912"}
+
+		]
+	},
+	{
+		"id": 91,
+		"content": "<img class='icon_imagem_jornal'  src='img/jornal.png' />Posse na Academia Brasileira de Letras",
+		"start": "1913/05/11",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Posse na Academia Brasileira de Letras ",
+		"info": "",
+		"media": "slider-content-galleries-full",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"galleries":
+		{
+			"gallery":[{"url":"img/195.jpg", "menor":"img/195-copy.jpg", "subTitle":" Posse de Oswaldo Cruz na Academia Brasileira de Letras em 11 de maio de 1913"}],
+			"gallery2": [{"url":"img/198.jpg", "menor":"img/198-copy.jpg", "subTitle":"A Imortalidade. O Gato, 5 jul. 1913"}],
+			"gallery3": [{"url":"img/199.jpg", "menor":"img/199-copy.jpg", "subTitle":"O novo imortal. O Gato, 5 jul. 1913"}]
+			
+		},
+		"thumbs":[
+			{"url":"img/195.jpg", "menor":"img/195-copy.jpg", "subTitle":" Posse de Oswaldo Cruz na Academia Brasileira de Letras em 11 de maio de 1913"},
+			{"url":"img/198.jpg", "menor":"img/198-copy.jpg", "subTitle":"A Imortalidade. O Gato, 5 jul. 1913"},
+			{"url":"img/199.jpg", "menor":"img/199-copy.jpg", "subTitle":"O novo imortal. O Gato, 5 jul. 1913"}
+		]
+	},
+	{
+		"id": 92,
+		"content": "<img class='icon_imagem_imagem'  src='img/imagem.png'/>Presidente dos Estados Unidos no Instituto Oswaldo Cruz",
+		"start": "1913/10/01",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Presidente dos Estados Unidos no Instituto Oswaldo Cruz",
+		"info": "",
+		"media": "slider-content-gallery",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+			{"url":"img/201.jpg", "menor":"img/201-copy.jpg", "subTitle":" Oswaldo Cruz recebe Theodore Roosevelt no Instituto Oswaldo Cruz. A convite do  marechal Cândido Rondon, o ex-presidente dos Estados Unidos, realiza expedição em Rondônia, então estado do Amazonas, para determinar a rota de um curso d’água chamado rio da Dúvida, batizado de rio Roosevelt "}
+
+		]
+	},
+	{
+		"id": 93,
+		"content": "<img class='icon_imagem_jornal'  src='img/jornal.png' />Representante do Brasil na Conferência Sanitária Internacional",
+		"start": "1914/04/16",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Representante do Brasil na Conferência Sanitária Internacional",
+		"info": "",
+		"media": "slider-content-gallery",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+			{"url":"img/204a.jpg", "menor":"img/204a.jpg", "subTitle":" Notícia divulgada na imprensa uruguaia sobre a Conferência Sanitária Internacional realizada em Montevidéu, Uruguai,  entre 15 e 21 abril, para assinatura de convênio entre Brasil, Argentina, Paraguai e Uruguai com a finalidade de implementar medidas de prevenção e combate a doenças infecciosas nos portos desses países"}
+		
+
+		]
+	},
+	{
+		"id": 94,
+		"content": "<img class='icon_imagem_imagem'  src='img/imagem.png'/>Visita ao Hospicio de las Mercedes em Buenos Aires",
+		"start": "1914/04/20",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Visita ao Hospicio de las Mercedes em Buenos Aires",
+		"info": "",
+		"media": "slider-content-gallery-full",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+			{"url":"img/207.jpg", "menor":"img/207-copy.jpg", "subTitle":"Oswaldo Cruz e o diretor Domingo Cabred no Hospicio de las Mercedes"},
+			{"url":"img/207b.jpg", "menor":"img/207-copy.jpg", "subTitle":"Oswaldo Cruz e o diretor Domingo Cabred no Hospicio de las Mercedes"}
+
+
+		]
+	},
+	{
+		"id": 95,
+		"content": "<img class='icon_imagem_imagem'  src='img/imagem.png'/>Homenagem da classe médica argentina",
+		"start": "1914/04/29",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Homenagem da classe médica argentina",
+		"info": "",
+		"media": "slider-content-gallery",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+			{"url":"img/208final.jpg", "menor":"img/208final-copy.jpg", "subTitle":"Recepção na Academia de Medicina de Buenos Aires em homenagem a Oswaldo Cruz (ao centro), oferecida pela Sociedade de Higiene Pública e Engenharia Sanitária e pela Faculdade de Medicina, da qual se torna professor honorário  "}
+
+		]
+	},
+	{
+		"id": 96,
+		"content": "<img class='icon_imagem_jornal'  src='img/jornal.png' /><img class='icon_documento'  src='img/documento.png' />Legião de Honra",
+		"start": "1914/06/01",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Legião de Honra",
+		"info": "",
+		"media": "slider-content-gallery",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+			{"url":"img/216a.jpg", "menor":"img/216a-copy.jpg", "subTitle":"Notas de Reportagem. Banquete no Hotel dos Estrangeiros oferecido a Oswaldo Cruz (4º da esquerda para a direita) pelos legionários residentes no Rio de Janeiro, por motivo de sua nomeação como chevalier de la Légion d’Honneur. Fon-fon, 13 jun. 1914 "},
+			{"url":"img/diploma-04.jpg", "menor":"img/diploma-04.jpg", "subTitle":"Diploma de oficial da Ordem Nacional da Legião de Honra conferido à Oswaldo Cruz pelo governo francês"}
+
+		]
+	},
+	{
+		"id": 97,
+		"content": "<img class='icon_documento'  src='img/documento.png' />Paris e II Primeira Guerra Mundial",
+		"start": "1914/08/01",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Paris e II Primeira Guerra Mundial",
+		"info": "",
+		"media": "slider-content-galleries-full",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"galleries":
+		{
+			"gallery":[
+				{"url":"img/74_1.jpg", "menor":"img/74_1-copy.jpg", "subTitle":"Passaporte e salvo conduto concedido pelo Consulado brasileiro em Paris, para onde Oswaldo Cruz e família haviam viajado em julho. Foi concedido em 3 de agosto, dia em que a Alemanha declara guerra à França, e em que eles seguem para Londres em busca de segurança "},{"url":"img/74_2.jpg","menor":"img/74_2-copy.jpg","subTitle":""}
+			],
+			"gallery2": [
+				{"url":"img/75.jpg", "menor":"img/75-copy.jpg", "subTitle":"Visto de entrada na Inglaterra, concedido a Oswaldo Cruz e sua família pelo Consulado Britânico em Paris"}
+			]	
+		},		
+		"thumbs":[
+			{"url":"img/74_1.jpg", "menor":"img/74_1-copy.jpg", "subTitle":"Passaporte e salvo conduto concedido pelo Consulado brasileiro em Paris, para onde Oswaldo Cruz e família haviam viajado em julho. Foi concedido em 3 de agosto, dia em que a Alemanha declara guerra à França, e em que eles seguem para Londres em busca de segurança "},
+			{"url":"img/75.jpg", "menor":"img/75-copy.jpg", "subTitle":"Visto de entrada na Inglaterra, concedido a Oswaldo Cruz e sua família pelo Consulado Britânico em Paris"}
+		]
+	},
+	{
+		"id": 98,
+		"content": "<img class='icon_carta' src='img/icone_correspondencia.png' /><img class='icon_imagem_imagem'  src='img/imagem.png'/>Refúgio em Londres",
+		"start": "1914/09/15",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Refúgio em Londres",
+		"info": "",
+		"media": "slider-content-galleries-full",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"galleries":
+		{
+			"gallery":[
+				{"url":"img/76a.jpg", "menor":"img/76a-copy.jpg", "subTitle":"Carta de Oswaldo Cruz ao seu filho Bento, comentando entre outros assuntos que estava posando para a Angelina Agostini, e que a cidade de Londres ficava às escuras à noite para dificultar os ataques aéreos dos zepelins alemães"},
+				{"url":"img/76b.jpg","menor":"img/76b-copy.jpg","subTitle":""},
+				{"url":"img/76c.jpg","menor":"img/76c-copy.jpg","subTitle":""},
+				{"url":"img/76d.jpg","menor":"img/76d-copy.jpg","subTitle":""}
+			],
+			"gallery2": [
+				{"url":"img/77.jpg", "menor":"img/77-copy.jpg", "subTitle":"Oswaldo Cruz e Emilia da Fonseca Cruz tiram essa foto para servir de modelo para a artista plástica Angelina Agostini executar retrato do casal. Acervo pessoal Eduardo Oswaldo Cruz"}
+			]
+			
+		},		
+		"thumbs":[
+			{"url":"img/76a.jpg", "menor":"img/76a-copy.jpg", "subTitle":"Carta de Oswaldo Cruz ao seu filho Bento, comentando entre outros assuntos que estava posando para a Angelina Agostini, e que a cidade de Londres ficava às escuras à noite para dificultar os ataques aéreos dos zepelins alemães"},
+			{"url":"img/77.jpg", "menor":"img/77-copy.jpg", "subTitle":"Oswaldo Cruz e Emilia da Fonseca Cruz tiram essa foto para servir de modelo para a artista plástica Angelina Agostini executar retrato do casal. Acervo pessoal Eduardo Oswaldo Cruz"}
+		]
+	},
+	{
+		"id": 99,
+		"content": "<img class='icon_carta' src='img/icone_correspondencia.png' />Notícias de Londres",
+		"start": "1914/10/22",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Notícias de Londres",
+		"info": "",
+		"media": "slider-content-gallery-full",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+			{"url":"img/carta_mathias_a.jpg", "menor":"img/carta_mathias_a-copy.jpg", "subTitle":"Carta de Oswaldo Cruz para a mãe, Amália, felicitando-a pelo aniversário. Comenta que as viagens pelo Atlântico representavam um risco por causa da guerra, e que o retorno ao Brasil dependia do desenrolar dos acontecimentos. Lamenta ainda o clima de tristeza em Londres, que permanecia às escuras à noite para dificultar o bombardeio dos zepelins alemães "},
+			{"url":"img/carta_mathias_b.jpg", "menor":"img/carta_mathias_b-copy.jpg", "subTitle":""},
+			{"url":"img/carta_mathias_c.jpg", "menor":"img/carta_mathias_c-copy.jpg", "subTitle":""},
+			{"url":"img/carta_mathias_d.jpg", "menor":"img/carta_mathias_d-copy.jpg", "subTitle":""}
+
+		]
+	},
+	{
+		"id": 100,
+		"content": "<img class='icon_imagem_imagem'  src='img/imagem.png'/>Família em Londres  ",
+		"start": "1914/11/01",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Família em Londres  ",
+		"info": "",
+		"media": "slider-content-gallery-full",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"galleries":
+		{
+			"gallery":[{"url":"img/Photo4500651.jpg", "menor":"img/500651_420162737cd2ef4vg84eoe_D_327x511-copy.jpg", "subTitle":"Emília da Fonseca Cruz (Miloca) em Londres, 1915"}],
+			
+			"gallery2": [{"url":"img/Photo11500029_semnomes.jpg", "menor":"img/Photo11500029_semnomes.jpg", "subTitle":"Emília da Fonseca Cruz (Miloca), ao centro, e filhos em Londres, 1915. Foto de Lizzie Caswall Smith, The Gainsborough Studio, Oxford Street, London.  Oswaldo Cruz retorna ao Brasil em janeiro de 1915, deixando a família em Londres por temer o bombardeio  de navios da marinha mercante que cruzavam o Atlântico"}],
+			
+			"gallery3": [{"url":"img/Foto_78.jpg", "menor":"img/Foto_78.jpg", "subTitle":"Enquanto esteve na Inglaterra, Oswaldo Cruz adquiriu do The Times Book Club um cupom de compra de livros recomentados por jornalistas do The Times. s.d."}]
+			
+		},
+		"thumbs":
+		[
+			{
+				"url":"img/Photo4500651.jpg",
+				"menor":"img/500651_420162737cd2ef4vg84eoe_D_327x511-copy.jpg",
+				"subTitle":"Emília da Fonseca Cruz (Miloca) em Londres, 1915"
+			},
+			
+			{
+				"url":"img/Photo11500029_semnomes.jpg",
+				"menor":"img/Photo11500029_semnomes.jpg",
+				"subTitle":"Emília da Fonseca Cruz (Miloca), ao centro, e filhos em Londres, 1915. Foto de Lizzie Caswall Smith, The Gainsborough Studio, Oxford Street, London.  Oswaldo Cruz retorna ao Brasil em janeiro de 1915, deixando a família em Londres por temer o bombardeio  de navios da marinha mercante que cruzavam o Atlântico"
+			},
+			
+			{
+				"url":"img/img/Foto_78.jpg.jpg",
+				"menor":"img/img/Foto_78.jpg.jpg",
+				"subTitle":"Enquanto esteve na Inglaterra, Oswaldo Cruz adquiriu do The Times Book Club um cupom de compra de livros recomentados por jornalistas do The Times. s.d."
+			}
+		]
+	},	
+	{
+		"id": 101,
+		"content": "<img class='icon_carta' src='img/icone_correspondencia.png' />Retorno ao Brasil ",
+		"start": "1915/01/15",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Retorno ao Brasil ",
+		"info": "",
+		"media": "slider-content-gallery-full",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+			{"url":"img/83a.jpg", "menor":"img/83a-copy.jpg", "subTitle":"Carta de Oswaldo Cruz à sua esposa, Emília da Fonseca (Miloca), enquanto estava à bordo do navio S.S. Frísia, que o trouxe de volta ao Brasil. Através de um médico belga que está à bordo, obtém notícias sobre a invasão alemã àquele país, e sobre a atuação do Rei Alberto I nos campos de batalha. Lisboa"},
+			{"url":"img/83b.jpg", "menor":"img/83a-copy.jpg", "subTitle":""},
+			{"url":"img/83c.jpg", "menor":"img/83a-copy.jpg", "subTitle":""},
+			{"url":"img/83d.jpg", "menor":"img/83a-copy.jpg", "subTitle":""}
+
+		]
+	},
+	{
+		"id": 102,
+		"content": "<img class='icon_imagem_imagem'  src='img/imagem.png'/>Licença da direção do Instituto Oswaldo Cruz",
+		"start": "1916/01/16",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Licença da direção do Instituto Oswaldo Cruz",
+		"info": "",
+		"media": "slider-content-gallery",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+			{"url":"img/217-a.jpg", "menor":"img/217-a-copy.jpg", "subTitle":"Última foto tirada durante o encerramento do curso de aplicação de 1916. Na primeira fila sentados da direita para a esquerda: Osvino Pena, Adolpho Lutz, Oswaldo Cruz, Carlos Chagas e Edgar da Costa Pereira. Atrás Sandoval Henrique Pereira, Lauro Travassos, Ezequiel Dias, Álvaro Lobo, Raul Franco di  Primio e João Vicente Franco de Souza Martins"}
+
+		]
+	},
+	{
+		"id": 103,
+		"content": "<img class='icon_documento'  src='img/documento.png' />Prefeitura de Petrópolis",
+		"start": "1916/07/28",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Prefeitura de Petrópolis",
+		"info": "",
+		"media": "slider-content-gallery",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+			{"url":"img/218.jpg", "menor":"img/218-copy.jpg", "subTitle":"Nomeação para prefeito da cidade de Petrópolis pelo presidente do estado do Rio de Janeiro, Nilo Peçanha"}
+
+		]
+	},
+	{
+		"id": 104,
+		"content": "<img class='icon_documento'  src='img/documento.png' />Projetos para Petrópolis ",
+		"start": "1916/08/17",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Projetos para Petrópolis ",
+		"info": "",
+		"media": "slider-content-gallery",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+			{"url":"img/221.jpg", "menor":"img/221-copy.jpg", "subTitle":"Cópia de carta de Oswaldo Cruz a Cândido Martins a respeito de sua posse na prefeitura de Petrópolis, e de uma lista de ideias e projetos a serem implementados na cidade"}
+
+		]
+	},
+	{
+		"id": 105,
+		"content": "<img class='icon_carta' src='img/icone_correspondencia.png' />Liga de Defesa Nacional",
+		"start": "1916/09/08",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Liga de Defesa Nacional",
+		"info": "",
+		"media": "slider-content-galleries-full",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"galleries":
+		{
+			"gallery":[{"url":"img/219.jpg", "menor":"img/219-copy.jpg", "subTitle":"Telegrama de Pedro Lessa, Olavo Bilac e Miguel Calmon convidando Oswaldo Cruz a comparecer à reunião da diretoria da Liga de Defesa Nacional na Biblioteca Nacional"}],
+			"gallery2": [{"url":"img/220.jpg", "menor":"img/220-copy.jpg", "subTitle":"Bilhete de Oswaldo Cruz à diretoria da Liga de Defesa Nacional desculpando-se por não poder comparecer à reunião por motivo de força maior. s.d."}]
+			
+		},		
+		"thumbs":[
+			{"url":"img/219.jpg", "menor":"img/219-copy.jpg", "subTitle":"Telegrama de Pedro Lessa, Olavo Bilac e Miguel Calmon convidando Oswaldo Cruz a comparecer à reunião da diretoria da Liga de Defesa Nacional na Biblioteca Nacional"},
+			{"url":"img/220.jpg", "menor":"img/220-copy.jpg", "subTitle":"Bilhete de Oswaldo Cruz à diretoria da Liga de Defesa Nacional desculpando-se por não poder comparecer à reunião por motivo de força maior. s.d."}
+
+		]
+	},
+	{
+		"id": 106,
+		"content": "<img class='icon_carta' src='img/icone_correspondencia.png' />Exoneração da prefeitura",
+		"start": "1917/01/31",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Exoneração da prefeitura",
+		"info": "",
+		"media": "slider-content-gallery",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+			{"url":"img/223.jpg", "menor":"img/223-copy.jpg", "subTitle":" Telegrama de Nilo Peçanha, presidente do estado do Rio de Janeiro (1914-1917), respondendo à solicitação de Oswaldo Cruz para ser substituído na Prefeitura de Petrópolis em vista de suas condições de saúde "}
+
+		]
+	},
+	{
+		"id": 107,
+		"content": "<img class='icon_imagem_jornal'  src='img/jornal.png' />Falecimento em Petrópolis",
+		"start": "1917/02/11",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Falecimento em Petrópolis",
+		"info": "",
+		"media": "slider-content-galleries-full",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"galleries":
+		{
+			"gallery":[{"url":"img/225.jpg", "menor":"img/225.jpg", "subTitle":"Notícia divulgada na imprensa sobre a morte de Oswaldo Cruz. A Tribuna, 12 fev. 1917; A Noite, 12 fev. 1917"}],
+			"gallery2": [{"url":"img/228.jpg", "menor":"img/228-copy.jpg", "subTitle":""}]
+			
+		},		
+		"thumbs":[
+			{"url":"img/225.jpg", "menor":"img/225-copy.jpg", "subTitle":"Notícia divulgada na imprensa sobre a morte de Oswaldo Cruz. A Tribuna, 12 fev. 1917; A Noite, 12 fev. 1917"},			
+			{"url":"img/228.jpg", "menor":"img/228-copy.jpg", "subTitle":""}
+
+		]
+	},
+	{
+		"id": 108,
+		"content": "<img class='icon_imagem_jornal'  src='img/jornal.png' />Cortejo fúnebre",
+		"start": "1917/02/12",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Cortejo fúnebre",
+		"info": "",
+		"media": "slider-content-gallery",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+			{"url":"img/.jpg", "menor":"img/231b-copy.jpg", "subTitle":"Funeral de Oswaldo Cruz na cidade do Rio de Janeiro"}
+
+		]
+	},
+	{
+		"id": 109,
+		"content": "<img class='icon_documento'  src='img/documento.png' />Homenagem da prefeitura do distrito federal",
+		"start": "1917/02/14",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Homenagem da prefeitura do distrito federal",
+		"info": "",
+		"media": "slider-content-galleries-full",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"galleries":
+		{
+			"gallery":[{"url":"img/ENT-037-2008.jpg", "menor":"img/ENT-037-2008-copy.jpg", "subTitle":"Convite oficial do prefeito do Distrito Federal, Amaro Cavalcanti, para cerimônia fúnebre em honra a Oswaldo Cruz a ser realizada na Igreja da Candelária"}],
+			"gallery2": [{"url":"img/BR-RJ-COC-OC-DC-1-41-f1.jpg", "menor":"img/BR-RJ-COC-OC-DC-1-41-f1-copy.jpg", "subTitle":"Primeira página do livro de assinaturas dos presentes à missa rezada a Oswaldo Cruz na Igreja da Candelária "}]
+			
+		},		
+		"thumbs":[
+			{"url":"img/ENT-037-2008.jpg", "menor":"img/ENT-037-2008-copy.jpg", "subTitle":"Convite oficial do prefeito do Distrito Federal, Amaro Cavalcanti, para cerimônia fúnebre em honra a Oswaldo Cruz a ser realizada na Igreja da Candelária"},
+			{"url":"img/BR-RJ-COC-OC-DC-1-41-f1.jpg", "menor":"img/BR-RJ-COC-OC-DC-1-41-f1-copy.jpg", "subTitle":"Primeira página do livro de assinaturas dos presentes à missa rezada a Oswaldo Cruz na Igreja da Candelária "}
+
+		]
+	},
+	{
+		"id": 110,
+		"content": "<img class='icon_documento'  src='img/documento.png' />Homenagem de Rui Barbosa ",
+		"start": "1917/05/28",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Homenagem de Rui Barbosa ",
+		"info": "",
+		"media": "slider-content-gallery",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+					{"url":"img/237.jpg", "menor":"img/237-copy.jpg", "subTitle":"Discurso de Rui Barbosa, então presidente da Academia Brasileira de Letras, proferido na cerimônia no Theatro Municipal do Rio de Janeiro promovida pela classe médica em honra à memória de Oswaldo Cruz"}
+
+		]
+	},
+	{
+		"id": 111,
+		"content": "<img class='icon_imagem_imagem'  src='img/imagem.png'/>Um ano da morte",
+		"start": "1918/02/11",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Um ano da morte",
+		"info": "",
+		"media": "slider-content-gallery",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+			{"url":"img/238.jpg", "menor":"img/238-copy.jpg", "subTitle":"Egídio Salles Guerra, médico de Oswaldo Cruz, ao lado da viúva Emília da Fonseca Cruz e dos filhos Bento e Oswaldo Cruz Filho, discursa no túmulo de Oswaldo Cruz, no cemitério São João Batista, no dia do primeiro aniversário de sua morte. Atrás, à esquerda, Carlos Chagas e Luiz Moraes Junio"}
+
+		]
+	},
+	{
+		"id": 112,
+		"content": "<img class='icon_imagem_imagem'  src='img/imagem.png'/>Placa em Paris",
+		"start": "1918/03/01",
+		"image": "img/foto01.jpg",
+		"className": "idade",
+		"title": "Placa em Paris",
+		"info": "",
+		"media": "slider-content-gallery",
+		"background": {
+			"size": "100% 100%",
+			"repeat": "",
+			"url": "img/background.jpg"
+		},
+		"thumbs":[
+			{"url":"img/Foto-105.jpg", "menor":"img/Foto-105-copy.jpg", "subTitle":"Lizeta Oswaldo Cruz Vidal e Emília Fonseca Cruz em frente à placa da rue Oswaldo Cruz, no 16e arrondissement de Paris. s.d. "}
+
+		]
+	}
+	
+]
