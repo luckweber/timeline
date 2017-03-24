@@ -591,7 +591,6 @@ and open the template in the editor.
 
 					
 					
-					
 					$("body").on({
 					
 						mouseenter: function (event) {
@@ -605,23 +604,23 @@ and open the template in the editor.
 								
 									if($( event.target  ).find("img").eq(i).attr("class") == "icon_imagem_jornal"){
 									
-										$( event.target  ).find("img").eq(i).attr("src","img/icone_jornal_over.png");
+										$( event.target  ).find("img").eq(i).attr("src","img/jornal.png");
 										
 									}else if($( event.target ).find("img").eq(i).attr("class") == "icon_imagem_imagem"){
 									
-										$( event.target  ).find("img").eq(i).attr("src","img/icone_fotografia_over.png");
+										$( event.target  ).find("img").eq(i).attr("src","img/icone_fotografia.png");
 										
 									}else if($( event.target ).find("img").eq(i).attr("class") == "icon_documento"){
 									
-										$( event.target  ).find("img").eq(i).attr("src","img/icone_documento_over.png");
+										$( event.target  ).find("img").eq(i).attr("src","img/icone_documento.png");
 										
 									}else if($( event.target ).find("img").eq(i).attr("class") == "icon_carta"){
 									
-										$( event.target  ).find("img").eq(i).attr("src","img/icone_correspondencia_over.png");
+										$( event.target  ).find("img").eq(i).attr("src","img/icone_correspondencia.png");
 										
 									}else if($( event.target ).find("img").eq(i).attr("class") == "icon_desenho"){
 									
-										$( event.target  ).find("img").eq(i).attr("src","img/icone_desenho_over.png");
+										$( event.target  ).find("img").eq(i).attr("src","img/icone_desenho.png");
 									}
 								}
 							
@@ -636,23 +635,23 @@ and open the template in the editor.
 								
 									if($( this ).find("img").eq(i).attr("class") == "icon_imagem_jornal"){
 									
-										$( this  ).find("img").eq(i).attr("src","img/jornal.png");
+										$( this  ).find("img").eq(i).attr("src","img/icone_jornal_over.png");
 										
 									}else if($(this ).find("img").eq(i).attr("class") == "icon_imagem_imagem"){
 									
-										$( this  ).find("img").eq(i).attr("src","img/imagem.png");
+										$( this  ).find("img").eq(i).attr("src","img/icone_fotografia_over.png");
 										
 									}else if($( this ).find("img").eq(i).attr("class") == "icon_documento"){
 									
-										$( this  ).find("img").eq(i).attr("src","img/icone_documento.png");
+										$( this  ).find("img").eq(i).attr("src","img/icone_documento_over.png");
 										
 									}else if($( this ).find("img").eq(i).attr("class") == "icon_carta"){
 									
-										$( this  ).find("img").eq(i).attr("src","img/icone_correspondencia.png");
+										$( this  ).find("img").eq(i).attr("src","img/icone_correspondencia_over.png");
 										
 									}else if($( this ).find("img").eq(i).attr("class") == "icon_desenho"){
 									
-										$( this  ).find("img").eq(i).attr("src","img/icone_desenho.png");
+										$( this  ).find("img").eq(i).attr("src","img/icone_desenho_over.png");
 									}
 								
 									
@@ -675,6 +674,77 @@ and open the template in the editor.
 						timeline.setSelection(hashTag, {focus: true});
 				
 					},2000);
+					
+					setInterval(function(){
+						var n = $(".vis-item.vis-box.idade.vis-selected.vis-readonly").length;
+						var nn = $(".vis-item.vis-box.idade.vis-readonly").length;
+						
+						if($(".idade").length > 0){
+							//alert($(".vis-item").length);
+							
+							$(".idade").each(function(){
+								
+								if($(this).find(".vis-selected.vis-readonly")){
+								
+									//alert($(this).find(".vis-selected.vis-readonly").length);
+								}
+								
+							});
+							
+							
+							
+						}
+						
+						if(n > 0){
+							var divClass = $(".vis-item.vis-box.idade.vis-selected.vis-readonly").find("img").attr("class");
+							
+							if(divClass == "icon_documento"){
+								$(".vis-item.vis-box.idade.vis-selected.vis-readonly").find("img").attr("src","img/icone_documento.png");
+							}else if(divClass == "icon_imagem_jornal"){
+								$(".vis-item.vis-box.idade.vis-selected.vis-readonly").find("img").attr("src","img/jornal.png");
+							}else if(divClass == "icon_imagem_imagem"){
+								$(".vis-item.vis-box.idade.vis-selected.vis-readonly").find("img").attr("src","img/icone_fotografia.png");
+							}else if(divClass == "icon_desenho"){
+								$(".vis-item.vis-box.idade.vis-selected.vis-readonly").find("img").attr("src","img/icone_desenho.png");
+							}
+
+						}
+					
+						if(nn > 0){
+							var divClass2 = $(".vis-item.vis-box.idade.vis-readonly").find("img").attr("src");
+							//alert($(".vis-item.vis-box.idade.vis-readonly").find("img").attr("src"));
+							if(divClass2 == "icon_documento"){
+								$(".vis-item.vis-box.idade.vis-readonly").find("img").attr("src","img/icone_documento_over.png");
+							}else if(divClass2 == "icon_imagem_jornal"){
+								$(".vis-item.vis-box.idade.vis-readonly").find("img").attr("src","img/icone_jornal_over.png");
+							}else if(divClass2 == "icon_imagem_imagem"){
+								$(".vis-item.vis-box.idade.vis-readonly").find("img").attr("src","img/icone_fotografia_over.png");
+							}else if(divClass2 == "icon_desenho"){
+								$(".vis-item.vis-box.idade.vis-readonly").find("img").attr("src","img/icone_desenho_over.png");
+							}
+						}
+						
+					},500);
+					
+					/*
+					$("body").on("mouseover", ".vis-item.vis-box.idade",function(){
+						
+						
+						$(this).each(function(){
+						
+							if($(this).find(".vis-selected")){
+								///alert("aa");
+							}
+						
+						});
+						
+						
+					
+					});
+					*/
+					
+					
+					
 					
 					
 					
@@ -919,10 +989,17 @@ z-index:300;
 
     </head>
     <body>
+	
+	<div id="language" class="language">
+		<span class="portugues"><a href="">Portugu&ecirc;s</a></span> | <span class="english"><a href="">English</a></span>
+	</div>
+	
 	<header id="testeira" class="testeira">
 		<a title="Biblioteca Oswaldo Cruz" href="../"><img src="img/simbolo_oswaldo_linha.png"/></a>
 		<!----<h1>Linha do Tempo</h1>------->
 	</header>
+	
+	
 	
 	<header id="testeira" class="testeira2">
 		<a title="Biblioteca Oswaldo Cruz" href="../"><img src="img/marca_bvoc.png"/></a>

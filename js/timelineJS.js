@@ -2089,12 +2089,19 @@ Slider.prototype.json = function(result, filter_mes, filter_ano){
 			$("#timeline").addClass("timeline_body_1");
 			
 			
+			$("#language").removeClass();
+			$("#language").addClass("language_1");
+			
 			
 		}else{
 			
 			$("body").attr("id", "body_background_2");
 			$("#timeline").removeClass();
-			$("#timeline").addClass("timeline_body_2")
+			$("#timeline").addClass("timeline_body_2");
+			
+			
+			$("#language").removeClass();
+			$("#language").addClass("language");
 		}
 		
 		
@@ -2128,52 +2135,49 @@ Slider.prototype.json = function(result, filter_mes, filter_ano){
 	
     $("#next").on('mouseover',function(){
 		
-		$(".nextItem2").each(function(){
-			
-					//$(this).css("visibility","visible");
-
-			
+		$(".nextItem").css("opacity","1")
+		
+		$(".nextItem .data_right_msn").each(function(){
+			$(this).css("opacity","1").css("color", "#3e3e3e");
 		});
 		
-		$(".nextItem").each(function(){
-			
-					$(this).css("opacity","1").css("color", "#d19202");
-			
-		});		
-
+		
+		$(".nextItem .data_right_year").each(function(){
+			$(this).css("opacity","1").css("color", "#f45c06");
+		});
 		
 	});
 	
 	
 	$("#next").on('mouseout',function(){
 		
+		//$(".nextItem").css("opacity",".15");
 		
-		$(".nextItem2").each(function(){
-			
-					$(this).css("visibility","hidden");
-
-			
+		$(".nextItem .data_right_msn").each(function(){
+			$(this).css("opacity",".15").css("color", "#919191");
 		});
 		
-		$(".nextItem").each(function(){
-			
-					$(this).css("opacity",".15").css("color", "#919191");
-
-			
-		});	
-
+		
+		$(".nextItem .data_right_year").each(function(){
+			$(this).css("opacity",".15").css("color", "#919191");
+		});
+		
 		
 	});
 	
 	
 	$("#prev").on('mouseover',function(){
 		
-		$(".prevItem").each(function(){
-			
-					$(this).css("opacity","1").css("color", "#d19202");
-
-			
-		});		
+		$(".prevItem").css("opacity","1")
+		
+		$(".prevItem .data_right_msn").each(function(){
+			$(this).css("opacity","1").css("color", "#3e3e3e");
+		});
+		
+		
+		$(".prevItem .data_right_year").each(function(){
+			$(this).css("opacity","1").css("color", "#f45c06");
+		});	
 
 		
 	});
@@ -2181,46 +2185,79 @@ Slider.prototype.json = function(result, filter_mes, filter_ano){
 	
 	$("#prev").on('mouseout',function(){
 		
-		$(".prevItem").each(function(){
-			
-					$(this).css("opacity",".15").css("color", "#919191");
-
-			
-		});	
-
+		//$(".prevItem").css("opacity",".15");
+		
+		$(".prevItem .data_right_msn").each(function(){
+			$(this).css("opacity",".15").css("color", "#919191");
+		});
+		
+		
+		$(".prevItem .data_right_year").each(function(){
+			$(this).css("opacity",".15").css("color", "#919191");
+		});
 		
 	});
 	
 	
-	
+	//SETA ESQUERDA---------------------------------------------
 	$("body").on('mouseover','.prevItem',function(){
+		$(this).css("opacity","1")
 		
-		$(this).css("opacity","1").css("color", "#d19202");
-
+		$(".prevItem .data_right_msn").each(function(){
+			$(this).css("opacity","1").css("color", "#3e3e3e");
+		});
+		
+		
+		$(".prevItem .data_right_year").each(function(){
+			$(this).css("opacity","1").css("color", "#f45c06");
+		});
+		
 		
 	});
 	
 	$("body").on('mouseout','.prevItem',function(){
 		
-		$(this).css("opacity",".15").css("color", "#919191");
-
+		//$(this).css("opacity",".15");
+		
+		$(".prevItem .data_right_msn").each(function(){
+			$(this).css("opacity",".15").css("color", "#919191");
+		});
+		
+		
+		$(".prevItem .data_right_year").each(function(){
+			$(this).css("opacity",".15").css("color", "#919191");
+		});
 		
 	});
 	
-	
+	//SETA DREITA---------------------------------------------
 	$("body").on('mouseover','.nextItem',function(){
 		
-		$(this).css("opacity","1").css("color", "#d19202");
+		$(this).css("opacity","1")
 		
-	
-
+		$(".nextItem .data_right_msn").each(function(){
+			$(this).css("opacity","1").css("color", "#3e3e3e");
+		});
 		
+		
+		$(".nextItem .data_right_year").each(function(){
+			$(this).css("opacity","1").css("color", "#f45c06");
+		});
 	});
+	
 	
 	$("body").on('mouseout','.nextItem',function(){
 		
-		$(this).css("opacity",".15").css("color", "#919191");
-
+		//$(this).css("opacity",".15");
+		
+		$(".nextItem .data_right_msn").each(function(){
+			$(this).css("opacity",".15").css("color", "#919191");
+		});
+		
+		
+		$(".nextItem .data_right_year").each(function(){
+			$(this).css("opacity",".15").css("color", "#919191");
+		});
 		
 	});
 	

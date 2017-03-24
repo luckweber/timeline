@@ -51,7 +51,7 @@
 				
 				//alert($(this).attr("data-lightbox-gallery-full"));
 
-
+				//LiGHTBOX SIMPLES------------------------------------------------------------------
                 if ($(this).attr("data-lightbox-gallery") == undefined && $(this).attr("data-lightbox-gallery-full") == undefined) {
 
                     $(this).each(function () {
@@ -75,7 +75,7 @@
                         
 
                     });
-
+				//LIGHTBOX FULL COM UMA IMAGEM--------------------------------------------------------	
                 }else if($(this).attr("data-lightbox-gallery") == undefined && $(this).attr("data-lightbox-gallery-full") != undefined){
 					
 					$(this).each(function () {
@@ -101,10 +101,6 @@
 
                     }
 					
-					
-					
-					
-					
 					currentItem = 1;
 					var countSlider = arrayElements2.length - 1;
 					
@@ -112,7 +108,10 @@
 					
 					nn = --n;
 					
-					number.html("1/"+nn);
+					if(nn > 1){
+						number.html("1/"+nn);
+					}
+					
 
                     for (var i = 0; i < nn; i++) {
                         var panel = $("<div/>", {class: "panel-lightbox"});
@@ -169,7 +168,8 @@
 					
 					currentItem += $(arrayElements).index(this);
 					
-
+					number_total = 1;
+					
                     for (var i = 0; i < arrayElements.length; i++) {
                         var panel = $("<div/>", {class: "panel-lightbox"});
                         var imgs = $("<img/>", {class: "image"});

@@ -5,14 +5,14 @@
         "start": "1872/08/01",
         "image": "img/cap_linha1.jpg",
         "className": "idade",
-        "title": "<div class='o'>OSWALDO</div><div class='c'> CRUZ</div>",
+        "title": "<div class='o'><span class='oo'>O</span>SWALDO</div><div class='c'><span class='cc'>C</span>RUZ</div>",
         "info": "",
         "media": "slider",
         "background": "img/cap_linha1.jpg"
     },
 	{
 		"id": 1,
-		"content": "<p><img class='icon_imagem_imagem' src='img/imagem.png' /><span class='icon_title'>Nascimento em São Paulo</span></p>",
+		"content": "<p><img class='icon_imagem_imagem' src='img/icone_fotografia_over.png' /><span class='icon_title'>Nascimento em São Paulo</span></p>",
 		"start": "1872/08/05",
 		"image": "img/imagen.png",
 		"className": "idade",
@@ -32,7 +32,7 @@
 	},
 	{
 		"id": 2,
-		"content": "<p><img class='icon_imagem_imagem' src='img/imagem.png' />Retorno da família à capital federal</p>",
+		"content": "<p><img class='icon_imagem_imagem' src='img/icone_fotografia_over.png' />Retorno da família à capital federal</p>",
 		"start": "1877/02/01",
 		"image": "img/foto01.jpg",
 		"className": "idade",
@@ -50,7 +50,7 @@
 	},
 	{
 		"id": 3,
-		"content": "<p><img class='icon_imagem_imagem'  src='img/imagem.png' />Ingresso na Faculdade de Medicina </p>",
+		"content": "<p><img class='icon_imagem_imagem'  src='img/icone_fotografia_over.png' />Ingresso na Faculdade de Medicina </p>",
 		"start": "1887/01/01",
 		"image": "img/foto01.jpg",
 		"className": "idade",
@@ -68,7 +68,7 @@
 	},
 	{
 		"id": 4,
-		"content": "<p><img class='icon_imagem_imagem'  src='img/imagem.png'/>Estágio no laboratório de Higiene da Faculdade de Medicina </p>",
+		"content": "<p><img class='icon_imagem_imagem'  src='img/icone_fotografia_over.png'/>Estágio no laboratório de Higiene da Faculdade de Medicina </p>",
 		"start": "1888/01/01",
 		"image": "img/foto01.jpg",
 		"className": "idade",
@@ -85,7 +85,7 @@
 	},
 	{
 		"id": 5,
-		"content": "<p><img class='icon_documento'  src='img/documento.png' />Hospital Geral da Santa Casa de Misericórdia </p>",
+		"content": "<p><img class='icon_documento'  src='img/icone_documento_over.png' />Hospital Geral da Santa Casa de Misericórdia </p>",
 		"start": "1889/11/18",
 		"image": "img/foto01.jpg",
 		"className": "idade",
@@ -106,7 +106,7 @@
 	,
 	{
 		"id": 6,
-		"content": "<p><img class='icon_documento'  src='img/documento.png' />Auxiliar  no Instituto Nacional de Higiene </p>",
+		"content": "<p><img class='icon_documento'  src='img/icone_documento_over.png' />Auxiliar  no Instituto Nacional de Higiene </p>",
 		"start": "1890/01/01",
 		"image": "img/foto01.jpg",
 		"className": "idade",
@@ -124,7 +124,7 @@
 	},
 	{
 		"id": 7,
-		"content": "<p><img class='icon_documento'  src='img/documento.png' />Hospital Geral da Santa Casa de Misericórdia </p>",
+		"content": "<p><img class='icon_documento'  src='img/icone_documento_over.png' />Hospital Geral da Santa Casa de Misericórdia </p>",
 		"start": "1891/02/25",
 		"image": "img/foto01.jpg",
 		"className": "idade",
@@ -143,7 +143,7 @@
 	},
 	{
 		"id": 8,
-		"content": "<p><img class='icon_carta' src='img/icone_correspondencia.png' />Pedido de noivado </p>",
+		"content": "<p><img class='icon_carta' src='img/icone_correspondencia_over.png' />Pedido de noivado </p>",
 		"start": "1891/04/05",
 		"image": "img/foto01.jpg",
 		"className": "idade",
@@ -163,7 +163,7 @@
 	},
 	{
 		"id": 9,
-		"content": "<p><img class='icon_carta' src='img/icone_correspondencia.png' />Noivado  </p>",
+		"content": "<p><img class='icon_carta' src='img/icone_correspondencia_over.png' />Noivado  </p>",
 		"start": "1891/04/13",
 		"image": "img/foto01.jpg",
 		"className": "idade",
@@ -184,7 +184,7 @@
 	},
 	{
 		"id": 10,
-		"content": "<p><img class='icon_documento'  src='img/documento.png' />Formatura na Faculdade de Medicina</p>",
+		"content": "<p><img class='icon_documento'  src='img/icone_documento_over.png' />Formatura na Faculdade de Medicina</p>",
 		"start": "1892/11/08",
 		"image": "img/foto01.jpg",
 		"className": "idade",
@@ -197,12 +197,14 @@
 			"url": "img/background.jpg"
 		},
 		"thumbs":[
-					{"url":"img/08-09-2016-0001-copy.jpg", "menor":"img/08-09-2016-0001-copy.jpg", "subTitle":"DIPLOMA  +  TESE :   <a href=\"http://www.labdigital.icict.fiocruz.br/flipbook/these_oswaldo_cruz/index.html\" target=\"_blank\">http://www.labdigital.icict.fiocruz.br/flipbook/these_oswaldo_cruz/index.html</a>"}
+					{"url":"img/08-09-2016-0001-copy.jpg", "menor":"img/08-09-2016-0001-copy.jpg", "subTitle":"DIPLOMA + TESE:   <a href=\"http://www.labdigital.icict.fiocruz.br/flipbook/these_oswaldo_cruz/index.html\" target=\"_blank\">http://www.labdigital.icict.fiocruz.br/flipbook/these_oswaldo_cruz/index.html</a>"},
+					{"url":"img/interna_escritos.jpg", "menor":"img/interna_escritos.jpg", "subTitle":""}
+
 		]
 	},
 	{
 		"id": 11,
-		"content": "<p><img class='icon_imagem_imagem'  src='img/imagem.png'/>Clínica médica </p>",
+		"content": "<p><img class='icon_imagem_imagem'  src='img/icone_fotografia_over.png'/>Clínica médica </p>",
 		"start": "1892/12/01",
 		"image": "img/foto01.jpg",
 		"className": "idade",
@@ -220,7 +222,7 @@
 	},
 	{
 		"id": 12,
-		"content": "<p><img class='icon_imagem_imagem'  src='img/imagem.png'/><img class='icon_documento'  src='img/documento.png' />Casamento</p> ",
+		"content": "<p><img class='icon_imagem_imagem'  src='img/icone_fotografia_over.png'/><img class='icon_documento'  src='img/icone_documento_over.png' />Casamento</p> ",
 		"start": "1893/01/05",
 		"image": "img/foto01.jpg",
 		"className": "idade",
@@ -239,7 +241,7 @@
 	},
 	{
 		"id": 13,
-		"content": "<p><img class='icon_documento'  src='img/documento.png' />Residência no Jardim Botânico</p> ",
+		"content": "<p><img class='icon_documento'  src='img/icone_documento_over.png' />Residência no Jardim Botânico</p> ",
 		"start": "1893/03/01",
 		"image": "img/foto01.jpg",
 		"className": "idade",
@@ -257,7 +259,7 @@
 	},
 	{
 		"id": 14,
-		"content": "<p><img class='icon_documento'  src='img/documento.png' />Epidemia de cólera morbus no Vale do Paraíba</p>",
+		"content": "<p><img class='icon_documento'  src='img/icone_documento_over.png' />Epidemia de cólera morbus no Vale do Paraíba</p>",
 		"start": "1894/01/01",
 		"image": "img/foto01.jpg",
 		"className": "idade",
@@ -275,7 +277,7 @@
 	},
 	{
 		"id": 15,
-		"content": "<p><img class='icon_imagem_imagem'  src='img/imagem.png'/>Nascimento da primeira filha</p>",
+		"content": "<p><img class='icon_imagem_imagem'  src='img/icone_fotografia_over.png'/>Nascimento da primeira filha</p>",
 		"start": "1894/11/16",
 		"image": "img/foto01.jpg",
 		"className": "idade",
@@ -293,7 +295,7 @@
 	},
 	{
 		"id": 16,
-		"content": "<p><img class='icon_imagem_imagem'  src='img/imagem.png'/>Policlínica Geral do Rio de Janeiro</p>",
+		"content": "<p><img class='icon_imagem_imagem'  src='img/icone_fotografia_over.png'/>Policlínica Geral do Rio de Janeiro</p>",
 		"start": "1894/12/29",
 		"image": "img/foto01.jpg",
 		"className": "idade",
@@ -312,7 +314,7 @@
 	},
 	{
 		"id": 17,
-		"content": "<p><img class='icon_documento'  src='img/documento.png' />Sociedade Propagadora de Instrução das Classes Operárias da Lagoa</p>",
+		"content": "<p><img class='icon_documento'  src='img/icone_documento_over.png' />Sociedade Propagadora de Instrução das Classes Operárias da Lagoa</p>",
 		"start": "1895/06/10",
 		"image": "img/foto01.jpg",
 		"className": "idade",
@@ -330,7 +332,7 @@
 	},
 	{
 		"id": 18,
-		"content": "<p><img class='icon_documento'  src='img/documento.png' />Morte de Louis Pasteur </p> ",
+		"content": "<p><img class='icon_documento'  src='img/icone_documento_over.png' />Morte de Louis Pasteur </p> ",
 		"start": "1895/09/28",
 		"image": "img/foto01.jpg",
 		"className": "idade",
@@ -349,7 +351,7 @@
 	},
 	{
 		"id": 19,
-		"content": "<p><img class='icon_imagem_imagem'  src='img/imagem.png'/>Estudos em Paris</p>",
+		"content": "<p><img class='icon_imagem_imagem'  src='img/icone_fotografia_over.png'/>Estudos em Paris</p>",
 		"start": "1897/01/01",
 		"image": "img/foto01.jpg",
 		"className": "idade",
@@ -367,7 +369,7 @@
 	},
 	{
 		"id": 20,
-		"content": "<p><img class='icon_imagem_imagem'  src='img/imagem.png'/><img class='icon_documento'  src='img/documento.png' />Instituto Pasteur de Paris</p>",
+		"content": "<p><img class='icon_imagem_imagem'  src='img/icone_fotografia_over.png'/><img class='icon_documento'  src='img/icone_documento_over.png' />Instituto Pasteur de Paris</p>",
 		"start": "1897/06/01",
 		"image": "img/foto01.jpg",
 		"className": "idade",
@@ -387,7 +389,7 @@
 	},
 	{
 		"id": 21,
-		"content": "<p><img class='icon_documento'  src='img/documento.png' />Especializações em medicina legal e em urologia</p>",
+		"content": "<p><img class='icon_documento'  src='img/icone_documento_over.png' />Especializações em medicina legal e em urologia</p>",
 		"start": "1898/01/01",
 		"image": "img/foto01.jpg",
 		"className": "idade",
@@ -424,7 +426,7 @@
 	},
 	{
 		"id": 23,
-		"content": "<p><img class='icon_imagem_imagem'  src='img/imagem.png'/>Formatura no Instituto Pasteur </p>",
+		"content": "<p><img class='icon_imagem_imagem'  src='img/icone_fotografia_over.png'/>Formatura no Instituto Pasteur </p>",
 		"start": "1898/03/01",
 		"image": "img/foto01.jpg",
 		"className": "idade",
@@ -443,7 +445,7 @@
 	},
 	{
 		"id": 24,
-		"content": "<p><img class='icon_documento'  src='img/documento.png' />Visita à Garches</p>",
+		"content": "<p><img class='icon_documento'  src='img/icone_documento_over.png' />Visita à Garches</p>",
 		"start": "1898/04/06",
 		"image": "img/foto01.jpg",
 		"className": "idade",
@@ -461,7 +463,7 @@
 	},
 	{
 		"id": 25,
-		"content": "<p><img class='icon_imagem_imagem'  src='img/imagem.png'/>Retorno da família ao Brasil</p>",
+		"content": "<p><img class='icon_imagem_imagem'  src='img/icone_fotografia_over.png'/>Retorno da família ao Brasil</p>",
 		"start": "1899/08/02",
 		"image": "img/foto01.jpg",
 		"className": "idade",
@@ -496,7 +498,7 @@
 	},
 	{
 		"id": 27,
-		"content": "<p><img class='icon_documento'  src='img/documento.png' />Laboratório de análises clínicas e consultório de urologia</p>",
+		"content": "<p><img class='icon_documento'  src='img/icone_documento_over.png' />Laboratório de análises clínicas e consultório de urologia</p>",
 		"start": "1899/09/01",
 		"image": "img/foto01.jpg",
 		"className": "idade",
@@ -1304,7 +1306,7 @@
 			"url": "img/background.jpg"
 		},
 		"thumbs":[
-			{"url":"img/2-2.jpg", "menor":"img/2-copy.jpg", "subTitle":"<span lang=\"en\"><em>The Prevention of Malaria</em></span>,  obra publicada por Donald Ross, da Escola de Medicina Tropical de Liverpool, que conta com um capítulo escrito por Oswaldo Cruz sobre as ações de profilaxia executadas pelo Instituto de Manguinhos nas regiões central e sul do Brasil"}
+			{"url":"img/5962139-L.jpg", "menor":"img/5962139-L.jpg", "subTitle":"<span lang=\"en\"><em>The Prevention of Malaria</em></span>,  obra publicada por Donald Ross, da Escola de Medicina Tropical de Liverpool, que conta com um capítulo escrito por Oswaldo Cruz sobre as ações de profilaxia executadas pelo Instituto de Manguinhos nas regiões central e sul do Brasil"}
 		
 		]
 	},
@@ -1380,7 +1382,7 @@
 			"url": "img/background.jpg"
 		},
 		"thumbs":[
-			{"url":"img/148a.jpg", "menor":"img/menor-ana.jpg", "subTitle":"Oswaldo Cruz, ao centro, de perfil, e a seu lado esquerdo Belisário Pena, visitando o canteiro de obras da ferrovia Madeira-Mamoré (atual estado de Rondônia), onde permaneceu até o início de agosto. s.d. "}
+			{"url":"img/2-2.jpg", "menor":"img/2-2.jpg", "subTitle":"Oswaldo Cruz, ao centro, de perfil, e a seu lado esquerdo Belisário Pena, visitando o canteiro de obras da ferrovia Madeira-Mamoré (atual estado de Rondônia), onde permaneceu até o início de agosto. s.d. "}
 
 		]
 	},

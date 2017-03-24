@@ -3129,7 +3129,19 @@
 		
 	}
 	
+	.language {
+		
+		width:10px;
+		height:10px;
+	}
 	
+	.portugues a{
+		text-decoration:none;
+	}
+	
+	.english a{
+		text-decoration:none;
+	}
 	
 	.cont_fig{
 		
@@ -6458,6 +6470,7 @@
 		direction: ltr;
 		
 		margin-top: -10px;
+		font-size: 14px;
 	}
 	
 	.subtitle_fig{
@@ -7567,6 +7580,10 @@
         font-size: 1.6em;
         font-family: pt sans;
     }
+    
+    .data_right_year {
+         font-size: 20px;
+    }
 	
 	
 	.prevItem h1 {
@@ -7617,8 +7634,65 @@
 		position: relative;
 		float: left;
 	}
+    
+   
 	
 	
+    .language {
+        position: relative;
+        width: 200px;
+        height: 20px;
+        font-size: 20px;
+        /*! left:1390px; */
+        top:40px;
+        color:black;
+        
+        z-index: 10;
+        margin-left: 1263px;
+        float: left;
+    }
+    
+    
+    
+    .language_1 {
+        position: absolute;
+        width: 200px;
+        height: 20px;
+        font-size: 20px;
+        /*! left:1390px; */
+        top:40px;
+        color:white;
+        
+        z-index: 10;
+        margin-left: 1402px;
+        float: right;
+    }
+    
+    
+     .language a {
+        text-decoration: none;
+         color:black;
+    }
+    
+    .language a:hover {
+        text-decoration: none;
+        color:#f45c06;
+    }
+    
+    
+    .language_1 a {
+        text-decoration: none;
+         color:white;
+    }
+    
+    .language_1 a:hover {
+        text-decoration: none;
+        color:#f45c06;
+    }
+    
+    
+   
+    
 	
 	body{
 		font-size:62.5%;
@@ -7647,7 +7721,7 @@
 		
 		
     position: relative;
-    /*! width: 100px; */
+    /*! width: 79%; */
     margin: 0;
     padding: 0;
     float: right;
@@ -7798,6 +7872,7 @@
 		direction: ltr;
 		
 		margin-top: -10px;
+		font-size: 14px;
 	}
 	
 	.subtitle_fig{
@@ -8014,7 +8089,7 @@
 		/*! left:18%; */
 		float:left;
 		/*! margin-top:-24em; */
-		margin-left:25%;
+		margin-left:28%;
 		width:70%;
 		padding:0;
 		
@@ -8071,7 +8146,7 @@
 		padding:0;
 		
 		
-		width: 88%;
+		width: 100%;
 		max-height: 497px;
 	}
 	
@@ -8217,6 +8292,7 @@
 		width:40%;
 		
 		margin-left: 18%;
+		width: 37%;
 	}
 	
 	
@@ -8225,9 +8301,10 @@
 		float:left;
 		font-size:10px;
 		font-family: Verdana, Geneva, sans-serif;
-		width:16%;
+		width:21%;
 		
 		margin-left: 32%;
+		/*! width: 22%; */
 	}
 	
 	
@@ -8270,7 +8347,7 @@
 		left:0;
 		top:0;
 		
-		max-height: 303px;
+		max-height: 357px;
 	}
 	
 	.timeline-slider-content-gallery-item2-div-image1  a{
@@ -8294,9 +8371,10 @@
 		position:relative;
 		float:left;
 		font-size:10px;
-		width:16%;
+		width:21%;
 		font-family: Verdana, Geneva, sans-serif;
 		
+		margin-left: 58px;
 	}
 	
 	.timeline-slider-content-gallery-sideright-3 .timeline-slider-content-gallery-item2-div-image2 {
@@ -8938,11 +9016,11 @@
 	.timeline-slider-title-0 {
 		position:relative;
 		/*! left:25%; */
-		top:60%;
-		width:65%;
-		height:40%;
+		top:24%;
+		width:900px;
+		height:362px;
 		color:white;
-		font-size:8.7em;
+		font-size:13.6em;
 		
 		float: left;
 		text-align: left;
@@ -8956,8 +9034,19 @@
 	.timeline-slider-title-0  .o{
 		color:#dd5406;
 		
-		width: 44%;
+		width: 899px;
+		float: left;
+		height: 195px;
+		/*! position: absolute; */
 	}
+    
+    .timeline-slider-title-0 .oo{
+        font-size: 186px;
+    }
+    
+    .timeline-slider-title-0 .cc{
+        font-size: 186px;
+    }
 	
 	.timeline-slider-title-0  .o b{
 		margin:0;
@@ -8970,6 +9059,11 @@
 	.timeline-slider-title-0  .c{
 		color: #a1a1a1;
 		
+		/*! float: right; */
+		width: 870px;
+		height: 150px;
+		/*! position: absolute; */
+		text-align: right;
 	}
 	
 	.timeline-slider-title-0  .c b{
@@ -9148,7 +9242,10 @@
         /*! text-align: right; */
         /*! word-break: break-all; */
         font-size: 1.6em;
-        font-family: pt sans;
+        font-family: Libre Baskerville,serif;
+    }
+    .data_right_year{
+        font-size: 16px;
     }
 	
 	
@@ -9192,7 +9289,7 @@
 		padding:0;
 		margin-left:1%;
         font-size: 1.6em;
-        font-family: pt sans;
+        font-family: Libre Baskerville,serif;
     }
 	
 	
